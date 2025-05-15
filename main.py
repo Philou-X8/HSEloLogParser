@@ -123,7 +123,7 @@ if __name__ == '__main__':
     plt.plot(s4_x, s4_y)
     plt.plot(s5_x, s5_y)
     plt.legend(['S3', 'S4', 'S5'])
-    plt.subplot(2, 1, 2); plt.title('Season 3')
+    plt.subplot(2, 1, 2); plt.title('Season 4')
     plt.plot(s4_x, s4_y)
     plt.plot(s4_a_x, s4_a_y)
     plt.plot(s4_s_x, s4_s_y)
