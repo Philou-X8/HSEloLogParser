@@ -1,0 +1,63 @@
+[2024-09-10T23:19:32.632Z] Login
+[2024-09-10T23:19:57.495Z] Logout
+[2024-09-10T23:20:36.518Z] Login
+[2024-09-10T23:33:48.616Z] Kill slushy (1829) with F45A->Gun->FA26b (12.8)  Elo gained: 125. New Elo: 2125
+[2024-09-10T23:38:03.205Z] Kill quiet (1804) with F45A->CFIT->F45A (1.3) Distance: 17.9nm Elo gained: 11. New Elo: 2136
+[2024-09-10T23:38:44.462Z] Kill slushy (1822) with F45A->AIM120->FA26b (0.9)  Elo gained: 8. New Elo: 2143
+[2024-09-10T23:46:02.519Z] Kill quiet (1665) with F45A->Gun->F45A (30.9)  Elo gained: 150. New Elo: 2293
+[2024-09-10T23:46:02.799Z] Death to quiet (1728) with F45A->AIM9X->F45A (3.9)  Elo lost: 64. New Elo: 2230
+[2024-09-10T23:50:11.908Z] Kill skibidirizzler2011 (2405) with F45A->Gun->FA26b (12.8)  Elo gained: 150. New Elo: 2380
+[2024-09-10T23:52:54.651Z] Kill quiet (1578) with F45A->Gun->F45A (30.9)  Elo gained: 150. New Elo: 2530
+[2024-09-10T23:56:14.023Z] Kill kracken (1906) with F45A->Gun->T55 (12.8)  Elo gained: 94. New Elo: 2624
+[2024-09-10T23:59:12.078Z] Kill Bem (1939) with F45A->Gun->F45A (30.9)  Elo gained: 150. New Elo: 2774
+[2024-09-10T23:59:40.392Z] Kill quiet (1527) with F45A->Gun->FA26b (12.8)  Elo gained: 51. New Elo: 2825
+[2024-09-10T23:59:48.264Z] Death to teamkill from rico no elo lost
+[2024-09-11T00:05:41.530Z] Death to Bem (2119) with F45A->Gun->F45A (30.9)  Elo lost: 150. New Elo: 2675
+[2024-09-11T00:05:43.257Z] Kill Pmanyourwingman (1612) with F45A->Gun->FA26b (12.8)  Elo gained: 64. New Elo: 2739
+[2024-09-11T00:10:35.242Z] Kill kracken (1821) with F45A->Gun->T55 (12.8)  Elo gained: 74. New Elo: 2813
+[2024-09-11T00:12:26.249Z] Kill skibidirizzler2011 (2430) with F45A->Gun->FA26b (12.8)  Elo gained: 110. New Elo: 2924
+[2024-09-11T00:16:34.007Z] Logout
+[2024-09-11T00:17:18.597Z] Login
+[2024-09-11T00:23:03.689Z] Death to Sir Gooch (2080) with F45A->AIM120->F45A (1.3)  Elo lost: 24. New Elo: 2900
+[2024-09-11T00:23:03.885Z] Kill Sir Gooch (2057) with F45A->AIM9X->F45A (3.9)  Elo gained: 23. New Elo: 2923
+[2024-09-11T00:27:18.525Z] Kill VivaLaDoink (1894) with F45A->Gun->FA26b (12.8)  Elo gained: 66. New Elo: 2989
+[2024-09-11T00:29:03.274Z] Kill john pizza (1970) with F45A->AIM120->EF24G (1.3)  Elo gained: 6. New Elo: 2995
+[2024-09-11T00:30:27.999Z] Kill Sir Gooch (1937) with F45A->Gun->F45A (30.9)  Elo gained: 150. New Elo: 3145
+[2024-09-11T00:33:56.805Z] Death to Haick (2098) with EF24G->AIM120->F45A (1.3)  Elo lost: 27. New Elo: 3119
+[2024-09-11T00:38:11.473Z] Kill john pizza (1916) with F45A->Gun->T55 (12.8)  Elo gained: 54. New Elo: 3173
+[2024-09-11T00:39:59.246Z] Kill Sir Gooch (1842) with F45A->Gun->F45A (30.9)  Elo gained: 122. New Elo: 3295
+[2024-09-11T00:40:34.782Z] Death to jaz (2013) with T55->AIM120->F45A (1.6)  Elo lost: 38. New Elo: 3257
+[2024-09-11T00:44:25.452Z] Kill jaz (1987) with F45A->Gun->T55 (12.8)  Elo gained: 50. New Elo: 3307
+[2024-09-11T00:49:27.244Z] Kill Sir Gooch (1861) with F45A->Gun->F45A (30.9)  Elo gained: 101. New Elo: 3408
+[2024-09-11T00:51:41.135Z] Kill jaz (1958) with F45A->Gun->T55 (12.8)  Elo gained: 38. New Elo: 3446
+[2024-09-11T00:54:38.449Z] Kill AyZeEn (3285) with F45A->Gun->FA26b (12.8)  Elo gained: 126. New Elo: 3571
+[2024-09-11T00:54:42.879Z] Death to jaz (2001) with T55->AIM120->F45A (1.6)  Elo lost: 43. New Elo: 3529
+[2024-09-11T00:59:27.552Z] Kill jaz (2062) with F45A->AIM120->T55 (0.9)  Elo gained: 2. New Elo: 3531
+[2024-09-11T01:00:11.850Z] Kill AyZeEn (3206) with F45A->Gun->FA26b (12.8)  Elo gained: 114. New Elo: 3646
+[2024-09-11T01:03:18.760Z] Death to AyZeEn (3230) with FA26b->AIM120->F45A (1.6)  Elo lost: 23. New Elo: 3622
+[2024-09-11T01:09:05.790Z] Kill john pizza (1892) with F45A->Gun->F45A (30.9)  Elo gained: 49. New Elo: 3671
+[2024-09-11T01:09:23.755Z] Death to AyZeEn (3233) with FA26b->AIM120->F45A (1.6)  Elo lost: 24. New Elo: 3648
+[2024-09-11T01:13:31.317Z] Kill Your mom (2035) with F45A->AIM120->EF24G (1.3)  Elo gained: 3. New Elo: 3650
+[2024-09-11T01:14:08.279Z] Kill AyZeEn (3221) with F45A->AIM9X->FA26b (3.1)  Elo gained: 24. New Elo: 3674
+[2024-09-11T01:15:13.477Z] Kill john pizza (1859) with F45A->Gun->F45A (30.9)  Elo gained: 34. New Elo: 3708
+[2024-09-11T01:16:35.166Z] Logout
+[2024-09-11T01:17:03.394Z] Login
+[2024-09-11T01:22:27.318Z] Kill Your mom (2033) with F45A->AIM120->EF24G (1.3)  Elo gained: 2. New Elo: 3710
+[2024-09-11T01:24:45.728Z] Kill skibidirizzler2011 (2480) with F45A->CFIT->FA26b (0.9) Distance: 13.6nm Elo gained: 3. New Elo: 3714
+[2024-09-11T01:33:50.711Z] Death to Your mom (2068) with F45A->AIM120->F45A (1.3)  Elo lost: 34. New Elo: 3679
+[2024-09-11T01:39:38.951Z] Kill BlueNekoTran (2908) with F45A->Gun->FA26b (12.8)  Elo gained: 84. New Elo: 3763
+[2024-09-11T01:44:49.231Z] Death to AecGem (2185) with EF24G->AIM120->F45A (1.3)  Elo lost: 33. New Elo: 3730
+[2024-09-11T01:49:30.878Z] Kill AecGem (2163) with F45A->AIM120->EF24G (1.3)  Elo gained: 3. New Elo: 3733
+[2024-09-11T01:49:33.050Z] Kill Spartaz (1949) with F45A->AIM120->EF24G (1.3)  Elo gained: 1. New Elo: 3734
+[2024-09-11T01:50:02.480Z] Death to Your mom (2288) with F45A->AIM9X->F45A (3.9)  Elo lost: 99. New Elo: 3635
+[2024-09-11T01:55:16.486Z] Death to AecGem (2277) with EF24G->AIRST->F45A (3.9)  Elo lost: 96. New Elo: 3539
+[2024-09-11T01:55:29.666Z] Kill AecGem (2272) with F45A->AIM120->EF24G (1.3)  Elo gained: 5. New Elo: 3544
+[2024-09-11T02:01:24.037Z] Kill Your mom (2128) with F45A->Gun->F45A (30.9)  Elo gained: 107. New Elo: 3650
+[2024-09-11T02:01:33.591Z] Kill Rain World (1976) with F45A->CFIT->FA26b (5.5) Distance: 4.0nm Elo gained: 9. New Elo: 3659
+[2024-09-11T02:04:38.460Z] Kill BlueNekoTran (2889) with F45A->CFIT->FA26b (5.5) Distance: 3.0nm Elo gained: 35. New Elo: 3694
+[2024-09-11T02:04:54.859Z] Kill Your mom (2078) with F45A->Gun->F45A (30.9)  Elo gained: 70. New Elo: 3764
+[2024-09-11T02:08:47.849Z] Kill Your mom (2055) with F45A->Gun->F45A (30.9)  Elo gained: 53. New Elo: 3817
+[2024-09-11T02:14:55.039Z] Logout
+
+
+Achievement log:

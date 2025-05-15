@@ -1,0 +1,765 @@
+[2025-01-26T17:00:39.076Z] Login
+[2025-01-26T17:07:59.914Z] Death to hilli2 (1937) with FA26b->AIM120->FA26b (1.0)  Elo lost: 11. New Elo: 1989
+[2025-01-26T17:12:01.184Z] Kill VIPER (2351) with FA26b->AIM9->F45A (4.2)  Elo gained: 60. New Elo: 2049
+[2025-01-26T17:12:03.459Z] Death to VIPER (2377) with F45A->AIM9X->FA26b (3.1)  Elo lost: 26. New Elo: 2023
+[2025-01-26T17:18:22.988Z] Kill Kobra (1718) with FA26b->AIM7->EF24G (10.7)  Elo gained: 95. New Elo: 2119
+[2025-01-26T17:20:17.717Z] Kill Simon (1840) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 150. New Elo: 2269
+[2025-01-26T17:30:22.055Z] Kill VIPER (2225) with FA26b->AIM7->F45A (10.7)  Elo gained: 114. New Elo: 2383
+[2025-01-26T17:32:24.972Z] Death to Simon (1838) with FA26b->AIM120->FA26b (1.0)  Elo lost: 16. New Elo: 2367
+[2025-01-26T17:32:44.803Z] Logout
+[2025-01-26T17:33:37.283Z] Login
+[2025-01-26T17:41:18.058Z] Kill Blindman (1913) with FA26b->Gun->FA26b (9.7)  Elo gained: 79. New Elo: 2446
+[2025-01-26T17:42:24.246Z] Kill Gamer (1933) with FA26b->Gun->FA26b (9.7)  Elo gained: 76. New Elo: 2522
+[2025-01-26T17:44:29.868Z] Kill Harry (1631) with FA26b->Gun->EF24G (20.4)  Elo gained: 126. New Elo: 2648
+[2025-01-26T17:59:10.686Z] Death to SpaceSlay (2027) with FA26b->AIM120->FA26b (1.0)  Elo lost: 16. New Elo: 2632
+[2025-01-26T17:59:11.330Z] Kill Harry (1566) with FA26b->AIM9->EF24G (4.2)  Elo gained: 20. New Elo: 2652
+[2025-01-26T18:04:39.241Z] Kill Assasin Online (1939) with FA26b->AIM7->FA26b (6.4)  Elo gained: 43. New Elo: 2695
+[2025-01-26T18:08:34.156Z] Kill Titan (1892) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 148. New Elo: 2842
+[2025-01-26T18:10:18.002Z] Death to Assasin Online (1997) with EF24G->AIM9X->FA26b (3.1)  Elo lost: 58. New Elo: 2784
+[2025-01-26T18:14:19.875Z] Kill SpaceSlay (2021) with FA26b->AIM7->FA26b (6.4)  Elo gained: 41. New Elo: 2825
+[2025-01-26T18:14:52.822Z] Death to Titan (1911) with FA26b->AIM120->FA26b (1.0)  Elo lost: 19. New Elo: 2806
+[2025-01-26T18:18:39.257Z] Kill glide (1962) with FA26b->AIM7->FA26b (6.4)  Elo gained: 38. New Elo: 2844
+[2025-01-26T18:19:33.021Z] Death to SpaceSlay (2071) with FA26b->AIRST->FA26b (2.8)  Elo lost: 50. New Elo: 2794
+[2025-01-26T18:23:21.594Z] Kill Titan (1956) with FA26b->CFIT->FA26b (2.8) Distance: 8.5nm Elo gained: 16. New Elo: 2810
+[2025-01-26T18:31:38.989Z] Kill CreaminBTwean (1757) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 117. New Elo: 2927
+[2025-01-26T18:32:42.060Z] Death to teamkill from fiddler no elo lost
+[2025-01-26T18:32:45.395Z] Logout
+[2025-01-26T18:33:39.751Z] Login
+[2025-01-26T18:34:48.568Z] Logout
+[2025-01-26T18:39:21.940Z] Login
+[2025-01-26T18:42:05.352Z] Death to I am just bad (1997) with F45A->AIM120->FA26b (0.9)  Elo lost: 18. New Elo: 2909
+[2025-01-26T18:48:34.098Z] Kill Titan (1807) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 111. New Elo: 3020
+[2025-01-26T18:51:18.253Z] Kill mo (2889) with FA26b->AIM7->EF24G (10.7)  Elo gained: 105. New Elo: 3125
+[2025-01-26T18:51:36.831Z] Death to prof Gary (2021) with FA26b->AIM120->FA26b (1.0)  Elo lost: 21. New Elo: 3104
+[2025-01-26T18:55:10.787Z] Kill Viper (2136) with FA26b->AIM9->FA26b (2.8)  Elo gained: 14. New Elo: 3118
+[2025-01-26T18:57:07.920Z] Death to mo (2910) with EF24G->AIM120->FA26b (0.9)  Elo lost: 11. New Elo: 3107
+[2025-01-26T19:01:08.894Z] Death to Titan (1818) with FA26b->AIM120->FA26b (1.0)  Elo lost: 23. New Elo: 3084
+[2025-01-26T19:07:51.787Z] Kill mo (2742) with FA26b->AIM9E->EF24G (46.3)  Elo gained: 150. New Elo: 3234
+[2025-01-26T19:15:23.775Z] Kill mo (2592) with FA26b->AIM9E->F45A (46.3)  Elo gained: 150. New Elo: 3384
+[2025-01-26T19:16:47.526Z] Kill Ezgamer (1809) with FA26b->AIM7->FA26b (6.4)  Elo gained: 14. New Elo: 3398
+[2025-01-26T19:19:55.608Z] Kill Frogg (2080) with FA26b->AIM9E->EF24G (46.3)  Elo gained: 150. New Elo: 3548
+[2025-01-26T19:32:46.167Z] Logout
+[2025-01-26T19:33:26.627Z] Login
+[2025-01-26T19:44:57.288Z] Kill Apollo (1833) with FA26b->AIM9E->F45A (46.3)  Elo gained: 86. New Elo: 3634
+[2025-01-26T19:59:49.560Z] Kill IGGY (2004) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 46. New Elo: 3680
+[2025-01-26T20:10:20.516Z] Death to monday (2392) with EF24G->AIM54->FA26b (5.5)  Elo lost: 132. New Elo: 3547
+[2025-01-26T20:18:23.408Z] Kill e (2366) with FA26b->AIM9E->F45A (46.3)  Elo gained: 150. New Elo: 3697
+[2025-01-26T20:22:31.353Z] Death to Bones (2101) with EF24G->AIM120->FA26b (0.9)  Elo lost: 24. New Elo: 3674
+[2025-01-26T20:29:07.951Z] Death to HazHaptic (2178) with F45A->AIM120->FA26b (0.9)  Elo lost: 23. New Elo: 3651
+[2025-01-26T20:32:47.216Z] Logout
+[2025-01-26T20:33:30.924Z] Login
+[2025-01-26T20:34:17.325Z] Logout
+[2025-01-31T03:04:18.800Z] Login
+[2025-01-31T03:07:41.536Z] Death to Kraken (1920) with EF24G->AIM120->FA26b (0.9)  Elo lost: 25. New Elo: 3626
+[2025-01-31T03:08:00.874Z] Logout
+[2025-01-31T03:08:38.611Z] Login
+[2025-01-31T03:13:08.244Z] Death to dildil (3382) with FA26b->AIM120->FA26b (1.0)  Elo lost: 13. New Elo: 3613
+[2025-01-31T03:16:50.307Z] Death to TragicJax (2066) with F45A->AIM120->FA26b (0.9)  Elo lost: 23. New Elo: 3590
+[2025-01-31T03:21:14.809Z] Kill 510pena (1661) with FA26b->AIM9E->EF24G (46.3)  Elo gained: 46. New Elo: 3636
+[2025-01-31T03:22:12.379Z] Death to TragicJax (2112) with F45A->AIM120->FA26b (0.9)  Elo lost: 23. New Elo: 3613
+[2025-01-31T03:26:17.587Z] Death to TragicJax (2210) with F45A->AIM9X->FA26b (3.1)  Elo lost: 76. New Elo: 3538
+[2025-01-31T03:28:52.566Z] Kill dildil (3354) with FA26b->AIM7->FA26b (6.4)  Elo gained: 60. New Elo: 3598
+[2025-01-31T03:31:23.404Z] Kill Eli Copter (2651) with FA26b->AIM9E->T55 (22.0)  Elo gained: 130. New Elo: 3728
+[2025-01-31T03:32:44.718Z] Kill TragicJax (2181) with FA26b->AIM7->F45A (10.7)  Elo gained: 25. New Elo: 3753
+[2025-01-31T03:33:25.891Z] Death to dildil (3444) with FA26b->AIM7->FA26b (6.4)  Elo lost: 90. New Elo: 3663
+[2025-01-31T03:36:01.170Z] Death to 510pena (1710) with EF24G->AIM120->FA26b (0.9)  Elo lost: 27. New Elo: 3636
+[2025-01-31T03:43:48.878Z] Kill dildil (3350) with FA26b->CFIT->FA26b (9.7) Distance: 0.3nm Elo gained: 88. New Elo: 3724
+[2025-01-31T03:44:10.675Z] Death to dorkboywest1 (1842) with FA26b->AIM120->FA26b (1.0)  Elo lost: 29. New Elo: 3695
+[2025-01-31T03:48:18.476Z] Death to 510pena (1728) with EF24G->AIM120->FA26b (0.9)  Elo lost: 27. New Elo: 3668
+[2025-01-31T03:48:18.500Z] Kill Caliban (1883) with FA26b->AIM9->EF24G (4.2)  Elo gained: 5. New Elo: 3672
+[2025-01-31T03:52:55.633Z] Kill Caliban (1878) with FA26b->AIM9->EF24G (4.2)  Elo gained: 4. New Elo: 3677
+[2025-01-31T03:53:22.837Z] Kill dildil (3211) with FA26b->Gun->FA26b (9.7)  Elo gained: 79. New Elo: 3755
+[2025-01-31T03:55:11.891Z] Kill SmilinTroll (2194) with FA26b->AIM7->T55 (6.4)  Elo gained: 15. New Elo: 3770
+[2025-01-31T03:56:08.947Z] Death to TragicJax (2315) with F45A->AIM9X->FA26b (3.1)  Elo lost: 77. New Elo: 3693
+[2025-01-31T04:02:41.121Z] Death to SmilinTroll (2263) with T55->AIM9->FA26b (2.8)  Elo lost: 69. New Elo: 3624
+[2025-01-31T04:07:35.517Z] Kill Caliban (1823) with FA26b->Gun->EF24G (20.4)  Elo gained: 23. New Elo: 3646
+[2025-01-31T04:08:01.181Z] Logout
+[2025-01-31T04:08:43.834Z] Login
+[2025-01-31T04:13:32.507Z] Kill dildil (3187) with FA26b->AIM9->FA26b (2.8)  Elo gained: 22. New Elo: 3668
+[2025-01-31T04:15:02.119Z] Kill Gopherto (3062) with FA26b->AIM9E->T55 (22.0)  Elo gained: 150. New Elo: 3818
+[2025-01-31T04:15:12.673Z] Kill MeesterFeesh500 (2175) with FA26b->CFIT->F45A (20.4) Distance: 0.4nm Elo gained: 41. New Elo: 3858
+[2025-01-31T04:15:13.245Z] Death to teamkill from bill no elo lost
+[2025-01-31T04:22:08.779Z] Death to MeesterFeesh500 (2360) with F45A->Gun->FA26b (12.8)  Elo lost: 150. New Elo: 3708
+[2025-01-31T04:32:21.775Z] Death to Bean (3008) with F45A->AIM120->FA26b (0.9)  Elo lost: 16. New Elo: 3693
+[2025-01-31T04:35:29.214Z] Kill Gopherto (3049) with FA26b->AIM9->FA26b (2.8)  Elo gained: 19. New Elo: 3712
+[2025-01-31T04:35:59.250Z] Kill 510pena (1715) with FA26b->AIM7->EF24G (10.7)  Elo gained: 11. New Elo: 3722
+[2025-01-31T04:36:55.528Z] Kill dildil (2984) with FA26b->AIM9E->T55 (22.0)  Elo gained: 150. New Elo: 3872
+[2025-01-31T04:37:27.268Z] Kill dom (1905) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 22. New Elo: 3894
+[2025-01-31T04:39:29.751Z] Kill Bean (2826) with FA26b->Gun->F45A (20.4)  Elo gained: 106. New Elo: 4000
+[2025-01-31T04:52:59.209Z] Kill Bean (2789) with FA26b->AIM9E->T55 (22.0)  Elo gained: 97. New Elo: 4097
+[2025-01-31T04:56:06.391Z] Kill Haick (2317) with FA26b->AIM9E->EF24G (46.3)  Elo gained: 66. New Elo: 4163
+[2025-01-31T05:04:23.828Z] Logout
+[2025-01-31T21:46:58.539Z] Login
+[2025-01-31T21:51:46.315Z] Kill benny (1712) with FA26b->AIM9E->EF24G (46.3)  Elo gained: 46. New Elo: 4210
+[2025-01-31T21:52:52.814Z] Death to Suds (2162) with FA26b->AIM9->FA26b (2.8)  Elo lost: 87. New Elo: 4123
+[2025-01-31T21:56:01.626Z] Death to Broseph (2306) with FA26b->AIM120->FA26b (1.0)  Elo lost: 28. New Elo: 4095
+[2025-01-31T22:00:45.788Z] Kill void dreams (1989) with FA26b->AIM9->FA26b (2.8)  Elo gained: 3. New Elo: 4097
+[2025-01-31T22:02:29.847Z] Death to mr velvet (2313) with FA26b->AIM120->FA26b (1.0)  Elo lost: 28. New Elo: 4069
+[2025-01-31T22:05:13.532Z] Kill mr velvet (2299) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 28. New Elo: 4098
+[2025-01-31T22:05:55.898Z] Death to MeesterFeesh500 (2530) with F45A->AIM9X->FA26b (3.1)  Elo lost: 81. New Elo: 4017
+[2025-01-31T22:08:14.850Z] Logout
+[2025-01-31T22:08:40.898Z] Login
+[2025-01-31T22:31:57.232Z] Kill brefdage (4041) with FA26b->CFIT->T55 (9.7) Distance: 0.6nm Elo gained: 111. New Elo: 4127
+[2025-01-31T22:41:03.698Z] Kill brefdage (4009) with FA26b->AIM7->FA26b (6.4)  Elo gained: 63. New Elo: 4190
+[2025-01-31T22:41:20.983Z] Death to OnlyJustTom (2299) with FA26b->AIM120->FA26b (1.0)  Elo lost: 29. New Elo: 4161
+[2025-01-31T22:46:19.602Z] Kill waassssup (1802) with FA26b->AIM7->FA26b (6.4)  Elo gained: 6. New Elo: 4167
+[2025-01-31T22:48:33.510Z] Death to xCRANTOSx (2033) with EF24G->AIM9X->FA26b (3.1)  Elo lost: 99. New Elo: 4068
+[2025-01-31T22:54:33.786Z] Kill Mr Aviator (1933) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 22. New Elo: 4090
+[2025-01-31T23:03:53.990Z] Death to brefdage (3698) with FA26b->AIM7->FA26b (6.4)  Elo lost: 96. New Elo: 3994
+[2025-01-31T23:06:49.409Z] Death to brefdage (3725) with FA26b->AIM120->FA26b (1.0)  Elo lost: 13. New Elo: 3982
+[2025-01-31T23:08:15.787Z] Logout
+[2025-01-31T23:08:43.729Z] Login
+[2025-01-31T23:15:44.079Z] Death to brefdage (3905) with T55->CFIT->FA26b (9.7) Distance: 0.5nm Elo lost: 116. New Elo: 3865
+[2025-01-31T23:22:38.863Z] Kill e (2081) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 27. New Elo: 3892
+[2025-01-31T23:23:19.444Z] Kill falcon (1997) with FA26b->AIM9E->T55 (22.0)  Elo gained: 22. New Elo: 3914
+[2025-01-31T23:24:12.057Z] Kill brefdage (3782) with FA26b->Gun->T55 (9.7)  Elo gained: 96. New Elo: 4010
+[2025-01-31T23:25:57.278Z] Kill BlueNekoTran (3310) with FA26b->Gun->FA26b (9.7)  Elo gained: 67. New Elo: 4076
+[2025-01-31T23:26:47.501Z] Death to snaddy (1975) with EF24G->AIM9X->FA26b (3.1)  Elo lost: 98. New Elo: 3978
+[2025-01-31T23:31:18.354Z] Kill snaddy (1964) with FA26b->AIM7->EF24G (10.7)  Elo gained: 11. New Elo: 3989
+[2025-01-31T23:31:32.271Z] Kill BlueNekoTran (3412) with FA26b->AIM7->FA26b (6.4)  Elo gained: 47. New Elo: 4036
+[2025-01-31T23:32:34.482Z] Kill falcon (1990) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 22. New Elo: 4058
+[2025-01-31T23:44:14.219Z] Death to Arlo (3689) with F45A->AIM9X->FA26b (3.1)  Elo lost: 43. New Elo: 4015
+[2025-01-31T23:48:55.387Z] Death to Arlo (3713) with F45A->AIM9X->FA26b (3.1)  Elo lost: 41. New Elo: 3974
+[2025-01-31T23:52:51.386Z] Kill BlueNekoTran (3170) with FA26b->AIM7->FA26b (6.4)  Elo gained: 40. New Elo: 4014
+[2025-01-31T23:53:42.201Z] Death to Arlo (3576) with F45A->AIM120->FA26b (0.9)  Elo lost: 13. New Elo: 4001
+[2025-01-31T23:54:27.329Z] Death (unknown) Elo lost: 30. New Elo: 3971
+[2025-01-31T23:57:53.878Z] Death to OnlyJustTom (2246) with FA26b->AIM120->FA26b (1.0)  Elo lost: 28. New Elo: 3943
+[2025-02-01T00:03:49.783Z] Kill BlueNekoTran (3163) with FA26b->Gun->FA26b (9.7)  Elo gained: 62. New Elo: 4006
+[2025-02-01T00:04:26.402Z] Kill Arlo (3619) with FA26b->Gun->F45A (20.4)  Elo gained: 150. New Elo: 4156
+[2025-02-01T00:06:24.342Z] Kill Flygtur (1982) with FA26b->Gun->FA26b (9.7)  Elo gained: 10. New Elo: 4165
+[2025-02-01T00:07:20.455Z] Kill OnlyJustTom (2236) with FA26b->Gun->FA26b (9.7)  Elo gained: 10. New Elo: 4175
+[2025-02-01T00:07:52.099Z] Death to haltell (2257) with T55->AIM7->FA26b (6.4)  Elo lost: 150. New Elo: 4025
+[2025-02-01T00:08:15.204Z] Logout
+[2025-02-01T00:42:26.312Z] Login
+[2025-02-01T00:47:12.323Z] Kill Arlo (3554) with FA26b->AIM9->FA26b (2.8)  Elo gained: 21. New Elo: 4047
+[2025-02-01T00:47:12.347Z] Death to CptCrackSpazzo (1899) with EF24G->AIM120->FA26b (0.9)  Elo lost: 29. New Elo: 4018
+[2025-02-01T00:50:43.477Z] Kill Ray (1840) with FA26b->AIM7->F45A (10.7)  Elo gained: 11. New Elo: 4028
+[2025-02-01T00:52:15.980Z] Death to BlueNekoTran (3482) with T55->Gun->FA26b (9.7)  Elo lost: 150. New Elo: 3878
+[2025-02-01T00:58:59.929Z] Death to Haick (2329) with EF24G->AIM120->FA26b (0.9)  Elo lost: 23. New Elo: 3855
+[2025-02-01T01:04:15.236Z] Death to rosey (3536) with EF24G->AIRST->FA26b (3.1)  Elo lost: 42. New Elo: 3814
+[2025-02-01T01:08:16.799Z] Logout
+[2025-02-01T01:08:42.625Z] Login
+[2025-02-01T01:13:27.985Z] Kill e (2459) with FA26b->CFIT->F45A (4.2) Distance: 8.2nm Elo gained: 14. New Elo: 3827
+[2025-02-01T01:18:39.133Z] Kill polarbear (2250) with FA26b->CFIT->EF24G (4.2) Distance: 6.9nm Elo gained: 9. New Elo: 3837
+[2025-02-01T01:18:42.329Z] Death to polarbear (2274) with EF24G->AIM120->FA26b (0.9)  Elo lost: 23. New Elo: 3813
+[2025-02-01T01:26:19.997Z] Death to BlueNekoTran (3282) with FA26b->AIM120->FA26b (1.0)  Elo lost: 15. New Elo: 3798
+[2025-02-01T01:30:21.808Z] Kill rosey (3419) with FA26b->CFIT->EF24G (10.7) Distance: 1.5nm Elo gained: 91. New Elo: 3889
+[2025-02-01T01:30:43.782Z] Death to cat boy (3494) with FA26b->AIRST->FA26b (2.8)  Elo lost: 40. New Elo: 3849
+[2025-02-01T01:32:48.973Z] Kill Potatoe (2107) with FA26b->AIM7->F45A (10.7)  Elo gained: 14. New Elo: 3864
+[2025-02-01T01:33:09.194Z] Kill xingy (2597) with FA26b->AIM7->EF24G (10.7)  Elo gained: 41. New Elo: 3905
+[2025-02-01T01:33:59.723Z] Death to BlueNekoTran (3443) with FA26b->AIM9E->FA26b (22.0)  Elo lost: 150. New Elo: 3755
+[2025-02-01T01:42:36.285Z] Kill goldleader (2313) with FA26b->CFIT->F45A (20.4) Distance: 0.1nm Elo gained: 63. New Elo: 3818
+[2025-02-01T01:43:13.739Z] Death to BlueNekoTran (3581) with FA26b->Gun->FA26b (9.7)  Elo lost: 134. New Elo: 3685
+[2025-02-01T01:47:25.350Z] Kill rosey (3501) with FA26b->AIM9->EF24G (4.2)  Elo gained: 39. New Elo: 3724
+[2025-02-01T01:47:34.038Z] Death to goldleader (2335) with F45A->AIM120->FA26b (0.9)  Elo lost: 22. New Elo: 3702
+[2025-02-01T01:50:25.681Z] Death to xingy (2701) with EF24G->AIM7->FA26b (5.5)  Elo lost: 116. New Elo: 3586
+[2025-02-01T01:53:10.592Z] Kill xingy (2588) with FA26b->Gun->EF24G (20.4)  Elo gained: 114. New Elo: 3700
+[2025-02-01T01:53:48.574Z] Kill cat boy (3341) with FA26b->Gun->FA26b (9.7)  Elo gained: 84. New Elo: 3784
+[2025-02-01T01:55:12.578Z] Kill rosey (3383) with FA26b->Gun->EF24G (20.4)  Elo gained: 150. New Elo: 3934
+[2025-02-01T01:56:09.138Z] Kill BlueNekoTran (3600) with FA26b->AIM7->FA26b (6.4)  Elo gained: 55. New Elo: 3989
+[2025-02-01T01:57:45.485Z] Kill xingy (2573) with FA26b->AIM7->EF24G (10.7)  Elo gained: 33. New Elo: 4022
+[2025-02-01T01:59:23.852Z] Kill ftzeno C28 (1895) with FA26b->CFIT->FA26b (6.4) Distance: 3.4nm Elo gained: 6. New Elo: 4029
+[2025-02-01T02:00:00.322Z] Death to goldleader (2283) with F45A->AIM120->FA26b (0.9)  Elo lost: 25. New Elo: 4004
+[2025-02-01T02:03:28.034Z] Kill xingy (2530) with FA26b->AIM9E->EF24G (46.3)  Elo gained: 150. New Elo: 4154
+[2025-02-01T02:04:18.101Z] Death to goldleader (2479) with F45A->Gun->FA26b (12.8)  Elo lost: 150. New Elo: 4004
+[2025-02-01T02:08:17.075Z] Logout
+[2025-02-01T02:08:59.876Z] Login
+[2025-02-01T02:19:41.957Z] Death to Steelie (2209) with EF24G->AIM120->FA26b (0.9)  Elo lost: 26. New Elo: 3978
+[2025-02-01T02:19:43.448Z] Kill EL JEFE (2132) with FA26b->CFIT->F45A (1.6) Distance: 16.0nm Elo gained: 2. New Elo: 3980
+[2025-02-01T02:24:24.237Z] Kill Melon1 (1896) with FA26b->AIM7->FA26b (6.4)  Elo gained: 6. New Elo: 3986
+[2025-02-01T02:28:48.913Z] Death to Steelie (2165) with EF24G->AIRST->FA26b (3.1)  Elo lost: 89. New Elo: 3897
+[2025-02-01T02:40:37.587Z] Kill Eli Copter (2698) with FA26b->AIM7->EF24G (10.7)  Elo gained: 45. New Elo: 3942
+[2025-02-01T02:42:08.103Z] Kill Kami (1994) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 22. New Elo: 3964
+[2025-02-01T02:42:42.266Z] Death to Jimithy (2215) with F45A->AIM120->FA26b (0.9)  Elo lost: 25. New Elo: 3939
+[2025-02-01T02:46:39.627Z] Kill Merchant (2031) with FA26b->AIM7->T55 (6.4)  Elo gained: 6. New Elo: 3946
+[2025-02-01T02:52:24.641Z] Death to teamkill from rosey no elo lost
+[2025-02-01T02:52:49.036Z] Logout
+[2025-02-01T03:16:56.156Z] Login
+[2025-02-01T03:22:46.288Z] Death to xingy (2636) with FA26b->AIM120->FA26b (1.0)  Elo lost: 23. New Elo: 3922
+[2025-02-01T03:26:45.735Z] Death to Cake (1898) with F45A->AIM120->FA26b (0.9)  Elo lost: 28. New Elo: 3895
+[2025-02-01T03:34:08.395Z] Death to Eli Copter (3122) with EF24G->AIM54->FA26b (5.5)  Elo lost: 102. New Elo: 3792
+[2025-02-01T03:38:20.829Z] Kill BlueNekoTran (3175) with FA26b->Gun->FA26b (9.7)  Elo gained: 71. New Elo: 3863
+[2025-02-01T03:40:02.363Z] Kill Cake (1857) with FA26b->AIM9E->F45A (46.3)  Elo gained: 46. New Elo: 3909
+[2025-02-01T03:41:40.233Z] Kill DannyCOTW (3013) with FA26b->Gun->EF24G (20.4)  Elo gained: 125. New Elo: 4034
+[2025-02-01T03:53:39.904Z] Kill xingy (2490) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 56. New Elo: 4091
+[2025-02-01T03:54:52.774Z] Death to BlueNekoTran (3126) with FA26b->AIM120->FA26b (1.0)  Elo lost: 20. New Elo: 4071
+[2025-02-01T04:01:25.122Z] Death to KitKat (2013) with FA26b->AIM120->FA26b (1.0)  Elo lost: 31. New Elo: 4040
+[2025-02-01T04:06:39.446Z] Death to Cake (1878) with F45A->AIM9X->FA26b (3.1)  Elo lost: 100. New Elo: 3940
+[2025-02-01T04:08:19.236Z] Logout
+[2025-02-01T04:09:14.707Z] Login
+[2025-02-01T04:14:11.174Z] Death to SneezyDinosaur (2211) with EF24G->AIM120->FA26b (0.9)  Elo lost: 25. New Elo: 3915
+[2025-02-01T04:21:46.435Z] Death to SneezyDinosaur (2350) with EF24G->AIM7->FA26b (5.5)  Elo lost: 148. New Elo: 3767
+[2025-02-01T04:27:38.131Z] Kill Prius (3713) with FA26b->AIM7->FA26b (6.4)  Elo gained: 65. New Elo: 3832
+[2025-02-01T04:29:26.135Z] Kill Boss Baby (2760) with FA26b->Gun->FA26b (9.7)  Elo gained: 48. New Elo: 3880
+[2025-02-01T04:30:11.772Z] Kill Dots (1885) with FA26b->Gun->F45A (20.4)  Elo gained: 20. New Elo: 3900
+[2025-02-01T04:30:22.240Z] Death to Toast (3847) with EF24G->AIM9E->FA26b (86.8)  Elo lost: 150. New Elo: 3750
+[2025-02-01T04:37:29.789Z] Kill SneezyDinosaur (2377) with FA26b->CFIT->EF24G (4.2) Distance: 6.7nm Elo gained: 14. New Elo: 3763
+[2025-02-01T04:39:49.026Z] Death to Cake (1916) with FA26b->AIM9->FA26b (2.8)  Elo lost: 81. New Elo: 3683
+[2025-02-01T04:44:18.714Z] Death to SneezyDinosaur (2483) with EF24G->AIM120->FA26b (0.9)  Elo lost: 20. New Elo: 3662
+[2025-02-01T04:54:54.938Z] Kill critter (1997) with FA26b->CFIT->FA26b (6.4) Distance: 2.3nm Elo gained: 11. New Elo: 3674
+[2025-02-01T04:55:17.809Z] Death to Toast (3897) with EF24G->AIM54->FA26b (5.5)  Elo lost: 50. New Elo: 3624
+[2025-02-01T05:00:51.733Z] Kill Prius (3558) with FA26b->Gun->FA26b (9.7)  Elo gained: 101. New Elo: 3725
+[2025-02-01T05:01:04.335Z] Death to K9 (2569) with T55->AIRST->FA26b (2.8)  Elo lost: 61. New Elo: 3663
+[2025-02-01T05:01:06.819Z] Kill K9 (2557) with FA26b->AIM9->T55 (2.8)  Elo gained: 13. New Elo: 3676
+[2025-02-01T05:04:47.703Z] Kill DannyCOTW (3015) with FA26b->Gun->T55 (9.7)  Elo gained: 69. New Elo: 3744
+[2025-02-01T05:08:10.598Z] Death to K9 (2617) with T55->AIRST->FA26b (2.8)  Elo lost: 60. New Elo: 3684
+[2025-02-01T05:08:51.213Z] Login
+[2025-02-01T05:08:54.309Z] Logout
+[2025-02-01T19:04:35.271Z] Login
+[2025-02-01T19:08:28.085Z] Logout
+[2025-02-01T19:08:54.677Z] Login
+[2025-02-01T19:14:09.065Z] Kill Victor (2025) with FA26b->AIM7->F45A (10.7)  Elo gained: 19. New Elo: 3703
+[2025-02-01T19:14:49.160Z] Death to Merchant (2094) with T55->AIM120->FA26b (1.0)  Elo lost: 26. New Elo: 3677
+[2025-02-01T19:22:08.439Z] Kill Merchant (2021) with FA26b->AIM9E->T55 (22.0)  Elo gained: 42. New Elo: 3719
+[2025-02-01T19:22:09.257Z] Death to teamkill from Kraken no elo lost
+[2025-02-01T19:30:23.152Z] Kill GARAK (1861) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 22. New Elo: 3741
+[2025-02-01T19:31:02.241Z] Kill Victor (1920) with FA26b->CFIT->F45A (20.4) Distance: 0.4nm Elo gained: 20. New Elo: 3762
+[2025-02-01T19:31:51.560Z] Kill Merchant (1995) with FA26b->AIM7->EF24G (10.7)  Elo gained: 13. New Elo: 3775
+[2025-02-01T19:51:45.103Z] Kill donnie (2117) with FA26b->Gun->EF24G (20.4)  Elo gained: 39. New Elo: 3814
+[2025-02-01T19:52:53.223Z] Kill GARAK (1766) with FA26b->Gun->EF24G (20.4)  Elo gained: 20. New Elo: 3834
+[2025-02-01T20:02:53.602Z] Kill GARAK (1749) with FA26b->CFIT->EF24G (4.2) Distance: 5.9nm Elo gained: 4. New Elo: 3838
+[2025-02-01T20:03:26.821Z] Death to deep penetrator (2376) with EF24G->AIM120->FA26b (0.9)  Elo lost: 22. New Elo: 3816
+[2025-02-01T20:08:16.390Z] Death to donnie (2157) with F45A->AIM120->FA26b (0.9)  Elo lost: 24. New Elo: 3791
+[2025-02-01T20:08:28.086Z] Logout
+[2025-02-01T20:08:55.951Z] Login
+[2025-02-01T20:15:02.217Z] Kill Hatback (3114) with FA26b->Gun->T55 (9.7)  Elo gained: 68. New Elo: 3859
+[2025-02-01T20:15:37.195Z] Kill donnie (2195) with FA26b->Gun->F45A (20.4)  Elo gained: 38. New Elo: 3897
+[2025-02-01T20:17:47.240Z] Kill cat boy (3247) with FA26b->AIM9E->T55 (22.0)  Elo gained: 150. New Elo: 4047
+[2025-02-01T20:20:01.686Z] Death to teamkill from deep penetrator no elo lost
+[2025-02-01T20:24:59.294Z] Death to Ray (1925) with FA26b->AIRST->FA26b (2.8)  Elo lost: 89. New Elo: 3959
+[2025-02-01T20:27:36.834Z] Kill Ray (2053) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 22. New Elo: 3981
+[2025-02-01T20:29:37.488Z] Kill Hatback (2991) with FA26b->AIM7->T55 (6.4)  Elo gained: 34. New Elo: 4014
+[2025-02-01T20:31:44.080Z] Kill sali (1938) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 22. New Elo: 4036
+[2025-02-01T20:34:07.204Z] Kill cat boy (2963) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 114. New Elo: 4150
+[2025-02-01T20:34:50.286Z] Death to Hatback (3153) with T55->Gun->FA26b (9.7)  Elo lost: 150. New Elo: 4000
+[2025-02-01T20:34:51.767Z] Kill Hatback (3137) with FA26b->AIM9->T55 (2.8)  Elo gained: 16. New Elo: 4016
+[2025-02-01T20:39:59.964Z] Kill cat boy (2950) with FA26b->AIM9->FA26b (2.8)  Elo gained: 13. New Elo: 4029
+[2025-02-01T20:40:27.533Z] Kill Hatback (3122) with FA26b->AIM9->T55 (2.8)  Elo gained: 15. New Elo: 4045
+[2025-02-01T20:41:59.937Z] Death to Astromos (3233) with T55->Gun->FA26b (9.7)  Elo lost: 150. New Elo: 3895
+[2025-02-01T20:50:57.316Z] Death to donnie (2279) with F45A->AIM120->FA26b (0.9)  Elo lost: 24. New Elo: 3871
+[2025-02-01T20:53:40.170Z] Death to cat boy (3074) with FA26b->AIM7->FA26b (6.4)  Elo lost: 124. New Elo: 3747
+[2025-02-01T20:56:33.827Z] Kill Hatback (3091) with FA26b->AIM9->T55 (2.8)  Elo gained: 19. New Elo: 3766
+[2025-02-01T20:57:46.013Z] Kill Hang (1978) with FA26b->AIM9->T55 (2.8)  Elo gained: 3. New Elo: 3769
+[2025-02-01T20:59:15.516Z] Kill cat boy (3090) with FA26b->AIM9->FA26b (2.8)  Elo gained: 19. New Elo: 3787
+[2025-02-01T20:59:32.580Z] Death to shipslovetosink (2165) with FA26b->Gun->FA26b (9.7)  Elo lost: 150. New Elo: 3637
+[2025-02-01T20:59:34.712Z] Kill shipslovetosink (2139) with FA26b->Gun->FA26b (9.7)  Elo gained: 26. New Elo: 3663
+[2025-02-01T21:02:49.531Z] Death to donnie (2345) with F45A->AIM120->FA26b (0.9)  Elo lost: 21. New Elo: 3642
+[2025-02-01T21:02:50.076Z] Kill Hatback (3044) with FA26b->AIM7->T55 (6.4)  Elo gained: 47. New Elo: 3689
+[2025-02-01T21:06:33.233Z] Death to cat boy (3258) with FA26b->AIM7->FA26b (6.4)  Elo lost: 99. New Elo: 3590
+[2025-02-01T21:06:34.065Z] Kill shipslovetosink (2132) with FA26b->AIM9->FA26b (2.8)  Elo gained: 8. New Elo: 3598
+[2025-02-01T21:08:28.555Z] Logout
+[2025-02-01T21:09:13.412Z] Login
+[2025-02-01T21:09:30.488Z] Logout
+[2025-02-02T18:58:55.656Z] Login
+[2025-02-02T18:59:39.021Z] Logout
+[2025-02-02T20:51:05.421Z] Login
+[2025-02-02T20:55:53.311Z] Kill PaxtonFettel (1991) with FA26b->AIM7->EF24G (10.7)  Elo gained: 22. New Elo: 3620
+[2025-02-02T20:56:29.306Z] Death to reaper (2024) with F45A->AIM120->FA26b (0.9)  Elo lost: 24. New Elo: 3596
+[2025-02-02T20:57:52.645Z] Logout
+[2025-02-02T20:58:32.299Z] Login
+[2025-02-02T21:06:00.513Z] Death to Seyno445 (2027) with F45A->AIM120->FA26b (0.9)  Elo lost: 23. New Elo: 3573
+[2025-02-02T21:11:57.823Z] Kill facundo (1866) with FA26b->AIM9E->EF24G (46.3)  Elo gained: 88. New Elo: 3661
+[2025-02-02T21:12:00.949Z] Kill Seyno445 (2132) with FA26b->AIM9->F45A (4.2)  Elo gained: 10. New Elo: 3671
+[2025-02-02T21:13:15.904Z] Death to Tobiichi Eigetsu (3714) with FA26b->Gun->FA26b (9.7)  Elo lost: 103. New Elo: 3568
+[2025-02-02T21:20:15.119Z] Death to goldleader (2203) with F45A->AIM120->FA26b (0.9)  Elo lost: 22. New Elo: 3546
+[2025-02-02T21:24:28.557Z] Kill xingy (2574) with FA26b->AIM9->EF24G (4.2)  Elo gained: 22. New Elo: 3569
+[2025-02-02T21:25:06.868Z] Death to Tobiichi Eigetsu (3724) with FA26b->AIM120->FA26b (1.0)  Elo lost: 9. New Elo: 3559
+[2025-02-02T21:38:00.142Z] Death to Griff (2130) with F45A->AIM9X->FA26b (3.1)  Elo lost: 77. New Elo: 3483
+[2025-02-02T21:45:36.186Z] Kill yytttt66 (2232) with FA26b->Gun->FA26b (9.7)  Elo gained: 38. New Elo: 3521
+[2025-02-02T21:46:15.086Z] Logout
+[2025-02-02T21:46:54.368Z] Login
+[2025-02-02T21:52:16.607Z] Kill Griff (2034) with FA26b->CFIT->F45A (10.7) Distance: 1.9nm Elo gained: 29. New Elo: 3550
+[2025-02-02T21:52:29.833Z] Death to dj kalid (2065) with FA26b->AIM120->FA26b (1.0)  Elo lost: 25. New Elo: 3525
+[2025-02-02T21:57:53.460Z] Logout
+[2025-02-02T21:58:34.972Z] Login
+[2025-02-02T22:04:44.366Z] Death to skyking (1694) with FA26b->AIM120->FA26b (1.0)  Elo lost: 29. New Elo: 3496
+[2025-02-02T22:08:41.506Z] Kill facundo (1898) with FA26b->AIM7->EF24G (10.7)  Elo gained: 23. New Elo: 3519
+[2025-02-02T22:08:45.278Z] Kill goldleader (2436) with FA26b->AIM9->F45A (4.2)  Elo gained: 20. New Elo: 3539
+[2025-02-02T22:08:47.093Z] Death to goldleader (2455) with F45A->AIM120->FA26b (0.9)  Elo lost: 19. New Elo: 3520
+[2025-02-02T22:13:55.867Z] Death to goldleader (2481) with F45A->AIM120->FA26b (0.9)  Elo lost: 19. New Elo: 3501
+[2025-02-02T22:23:52.860Z] Kill facundo (1858) with FA26b->AIM7->EF24G (10.7)  Elo gained: 20. New Elo: 3521
+[2025-02-02T22:24:02.873Z] Death to cat boy (3791) with FA26b->AIM9E->FA26b (22.0)  Elo lost: 150. New Elo: 3371
+[2025-02-02T22:27:30.849Z] Kill Bigu (2087) with FA26b->AIM7->EF24G (10.7)  Elo gained: 40. New Elo: 3411
+[2025-02-02T22:30:45.031Z] Teamkill cat boy Elo lost: 0. New Elo: 3411
+[2025-02-02T22:31:17.018Z] Death to raster (2151) with F45A->AIM120->FA26b (0.9)  Elo lost: 21. New Elo: 3391
+[2025-02-02T22:36:58.646Z] Death to raster (2163) with F45A->AIM120->FA26b (0.9)  Elo lost: 20. New Elo: 3370
+[2025-02-02T22:42:27.648Z] Kill SgtTacticool (1928) with FA26b->AIM9->FA26b (2.8)  Elo gained: 8. New Elo: 3378
+[2025-02-02T22:43:03.608Z] Death to Bigu (2289) with T55->Gun->FA26b (9.7)  Elo lost: 150. New Elo: 3228
+[2025-02-02T22:46:47.961Z] Kill Carpoon (1985) with FA26b->AIM9->FA26b (2.8)  Elo gained: 11. New Elo: 3239
+[2025-02-02T22:46:56.145Z] Death to raster (2323) with F45A->AIM120->FA26b (0.9)  Elo lost: 17. New Elo: 3221
+[2025-02-02T22:49:28.984Z] Kill brian (1964) with FA26b->AIM7->FA26b (6.4)  Elo gained: 25. New Elo: 3246
+[2025-02-02T22:50:25.261Z] Death to cat boy (3845) with FA26b->AIM7->FA26b (6.4)  Elo lost: 47. New Elo: 3199
+[2025-02-02T22:53:32.918Z] Kill thrustmaster69 (1986) with FA26b->Gun->FA26b (9.7)  Elo gained: 40. New Elo: 3240
+[2025-02-02T22:54:22.055Z] Kill SgtTacticool (1852) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 76. New Elo: 3315
+[2025-02-02T22:57:30.565Z] Kill raster (2152) with FA26b->AIM9E->F45A (46.3)  Elo gained: 150. New Elo: 3465
+[2025-02-02T22:57:31.742Z] Death to raster (2223) with F45A->AIM9X->FA26b (3.1)  Elo lost: 71. New Elo: 3394
+[2025-02-02T22:57:54.318Z] Logout
+[2025-02-03T01:00:58.435Z] Login
+[2025-02-03T01:06:00.302Z] Kill BlueNekoTran (3435) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 150. New Elo: 3544
+[2025-02-03T01:08:14.680Z] Kill snaddy (1645) with FA26b->AIM9->EF24G (4.2)  Elo gained: 4. New Elo: 3549
+[2025-02-03T01:08:28.358Z] Kill Skid (1982) with FA26b->CFIT->T55 (1.0) Distance: 19.4nm Elo gained: 2. New Elo: 3551
+[2025-02-03T01:09:21.532Z] Death to xylo (2351) with T55->AIM120->FA26b (1.0)  Elo lost: 22. New Elo: 3529
+[2025-02-03T01:09:21.921Z] Kill raster (2321) with FA26b->AIM9->F45A (4.2)  Elo gained: 17. New Elo: 3546
+[2025-02-03T01:09:22.891Z] Kill rosey (3296) with FA26b->Gun->EF24G (20.4)  Elo gained: 150. New Elo: 3696
+[2025-02-03T01:14:21.205Z] Kill MERLIN69 (2956) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 150. New Elo: 3846
+[2025-02-03T01:14:23.763Z] Death to MERLIN69 (2975) with FA26b->AIM120->FA26b (1.0)  Elo lost: 19. New Elo: 3827
+[2025-02-03T01:19:24.152Z] Death to xylo (2520) with T55->AIRST->FA26b (2.8)  Elo lost: 66. New Elo: 3761
+[2025-02-03T01:22:39.018Z] Kill rosey (3368) with FA26b->AIM7->EF24G (10.7)  Elo gained: 90. New Elo: 3852
+[2025-02-03T01:24:46.573Z] Death to BlueNekoTran (3484) with FA26b->AIRST->FA26b (2.8)  Elo lost: 39. New Elo: 3813
+[2025-02-03T01:29:17.756Z] Death to BlueNekoTran (3354) with FA26b->AIM120->FA26b (1.0)  Elo lost: 15. New Elo: 3798
+[2025-02-03T01:34:48.686Z] Kill BND (1855) with FA26b->AIM7->FA26b (6.4)  Elo gained: 6. New Elo: 3805
+[2025-02-03T01:36:02.679Z] Kill burgers1ut (2078) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 34. New Elo: 3838
+[2025-02-03T01:38:03.147Z] Kill Tom (987) with FA26b->CFIT->T55 (9.7) Distance: 0.7nm Elo gained: 10. New Elo: 3848
+[2025-02-03T01:38:36.772Z] Kill raster (2251) with FA26b->AIM9->F45A (4.2)  Elo gained: 9. New Elo: 3857
+[2025-02-03T01:48:22.919Z] Death to snaddy (1628) with EF24G->AIM120->FA26b (0.9)  Elo lost: 29. New Elo: 3827
+[2025-02-03T01:51:40.677Z] Kill BlueNekoTran (3295) with FA26b->AIM9->FA26b (2.8)  Elo gained: 21. New Elo: 3848
+[2025-02-03T01:55:56.020Z] Kill snaddy (1659) with FA26b->AIM9E->EF24G (46.3)  Elo gained: 46. New Elo: 3894
+[2025-02-03T01:57:10.130Z] Kill BlueNekoTran (3253) with FA26b->AIM7->FA26b (6.4)  Elo gained: 45. New Elo: 3939
+[2025-02-03T01:57:57.111Z] Logout
+[2025-02-03T01:58:25.560Z] Login
+[2025-02-03T02:03:35.804Z] Kill SkittleGritt (2218) with FA26b->AIM9->FA26b (2.8)  Elo gained: 4. New Elo: 3943
+[2025-02-03T02:03:46.853Z] Death to DannyCOTW (3678) with EF24G->AIM9E->FA26b (86.8)  Elo lost: 150. New Elo: 3793
+[2025-02-03T02:10:32.097Z] Death to alyx (3626) with F45A->Gun->FA26b (12.8)  Elo lost: 150. New Elo: 3643
+[2025-02-03T02:16:03.689Z] Kill SkittleGritt (2126) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 59. New Elo: 3703
+[2025-02-03T02:16:48.589Z] Death to cat boy (4131) with T55->AIM9E->FA26b (22.0)  Elo lost: 150. New Elo: 3553
+[2025-02-03T02:20:44.923Z] Kill tomcat (1826) with FA26b->AIM9->EF24G (4.2)  Elo gained: 6. New Elo: 3559
+[2025-02-03T02:22:16.753Z] Death to DannyCOTW (3708) with EF24G->AIM7->FA26b (5.5)  Elo lost: 52. New Elo: 3507
+[2025-02-03T02:24:50.601Z] Logout
+[2025-02-03T02:25:47.188Z] Login
+[2025-02-03T02:29:27.493Z] Death to alyx (3595) with F45A->Gun->FA26b (12.8)  Elo lost: 134. New Elo: 3373
+[2025-02-03T02:34:56.989Z] Kill alyx (3295) with FA26b->Gun->F45A (20.4)  Elo gained: 150. New Elo: 3523
+[2025-02-03T02:35:03.162Z] Death to cat boy (4047) with T55->AIM7->FA26b (6.4)  Elo lost: 49. New Elo: 3474
+[2025-02-03T02:37:43.840Z] Teamkill BlueNekoTran Elo lost: 0. New Elo: 3474
+[2025-02-03T02:39:08.108Z] Death to DannyCOTW (3524) with EF24G->AIM7->FA26b (5.5)  Elo lost: 55. New Elo: 3419
+[2025-02-03T02:42:47.906Z] Logout
+[2025-02-03T02:48:40.715Z] Login
+[2025-02-03T02:52:36.437Z] Death to Cinnabun (2922) with T55->AIRST->FA26b (2.8)  Elo lost: 43. New Elo: 3376
+[2025-02-03T02:57:58.017Z] Logout
+[2025-02-03T03:06:26.754Z] Death to DannyCOTW (3550) with EF24G->AIM54->FA26b (5.5)  Elo lost: 51. New Elo: 3325
+[2025-02-03T03:09:20.782Z] Death to Cinnabun (3186) with T55->Gun->FA26b (9.7)  Elo lost: 123. New Elo: 3202
+[2025-02-03T03:14:43.357Z] Death to DannyCOTW (3449) with EF24G->AIM54->FA26b (5.5)  Elo lost: 49. New Elo: 3153
+[2025-02-03T03:18:46.573Z] Death to windy (1953) with F45A->AIM9X->FA26b (3.1)  Elo lost: 69. New Elo: 3083
+[2025-02-03T03:22:13.395Z] Death to DannyCOTW (3543) with EF24G->AIM54->FA26b (5.5)  Elo lost: 43. New Elo: 3040
+[2025-02-03T03:25:08.045Z] Kill alyx (3209) with FA26b->AIM9->EF24G (4.2)  Elo gained: 52. New Elo: 3092
+[2025-02-03T03:25:43.603Z] Kill cat boy (3948) with FA26b->CFIT->FA26b (9.7) Distance: 0.6nm Elo gained: 150. New Elo: 3242
+[2025-02-03T03:25:48.332Z] Death to Cinnabun (3300) with T55->Gun->FA26b (9.7)  Elo lost: 102. New Elo: 3140
+[2025-02-03T03:27:57.234Z] Kill MeesterFeesh500 (2181) with FA26b->AIM7->FA26b (6.4)  Elo gained: 35. New Elo: 3175
+[2025-02-03T03:30:18.650Z] Kill raster (2291) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 138. New Elo: 3312
+[2025-02-03T03:33:52.118Z] Kill DannyCOTW (3378) with FA26b->Gun->EF24G (20.4)  Elo gained: 150. New Elo: 3462
+[2025-02-03T03:35:03.280Z] Death to teamkill from 1qkolol no elo lost
+[2025-02-03T03:41:09.514Z] Death to DannyCOTW (3410) with EF24G->AIM7->FA26b (5.5)  Elo lost: 61. New Elo: 3401
+[2025-02-03T03:45:51.659Z] Kill Uncle Grandpa (1992) with FA26b->AIM9->FA26b (2.8)  Elo gained: 8. New Elo: 3410
+[2025-02-03T03:46:34.069Z] Kill DannyCOTW (3396) with FA26b->AIM9->EF24G (4.2)  Elo gained: 44. New Elo: 3453
+[2025-02-03T03:46:43.064Z] Death to Cinnabun (3373) with T55->AIRST->FA26b (2.8)  Elo lost: 31. New Elo: 3423
+[2025-02-03T03:51:27.410Z] Kill Uncle Grandpa (1971) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 68. New Elo: 3490
+[2025-02-03T03:52:23.972Z] Death to raster (2387) with F45A->AIM9X->FA26b (3.1)  Elo lost: 66. New Elo: 3424
+[2025-02-03T03:55:12.287Z] Death to jp (3306) with T55->AIRST->FA26b (2.8)  Elo lost: 32. New Elo: 3392
+[2025-02-08T20:21:05.160Z] Login
+[2025-02-08T20:25:08.583Z] Death to e (2277) with EF24G->AIM120->FA26b (0.9)  Elo lost: 19. New Elo: 3373
+[2025-02-08T20:31:49.207Z] Kill TheGamerME (1989) with FA26b->CFIT->T55 (1.0) Distance: 15.7nm Elo gained: 3. New Elo: 3376
+[2025-02-08T20:31:57.076Z] Death to skyking (1691) with FA26b->AIM120->FA26b (1.0)  Elo lost: 27. New Elo: 3349
+[2025-02-08T20:36:17.923Z] Logout
+[2025-02-08T20:36:44.868Z] Login
+[2025-02-08T20:46:23.235Z] Kill olive (1969) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 76. New Elo: 3425
+[2025-02-08T20:46:44.855Z] Kill ethan (1305) with FA26b->AIM9E->F45A (46.3)  Elo gained: 46. New Elo: 3471
+[2025-02-08T20:47:49.817Z] Kill Magz (2093) with FA26b->AIM9E->T55 (22.0)  Elo gained: 77. New Elo: 3548
+[2025-02-08T20:48:25.134Z] Kill skyking (1554) with FA26b->Gun->EF24G (20.4)  Elo gained: 20. New Elo: 3568
+[2025-02-08T20:49:35.500Z] Kill olive (1956) with FA26b->AIM7->FA26b (6.4)  Elo gained: 13. New Elo: 3581
+[2025-02-08T20:58:41.347Z] Kill sabaton2011 (1899) with FA26b->AIM7->EF24G (10.7)  Elo gained: 18. New Elo: 3599
+[2025-02-08T21:05:32.743Z] Kill sabaton2011 (1877) with FA26b->CFIT->EF24G (20.4) Distance: 0.8nm Elo gained: 31. New Elo: 3631
+[2025-02-08T21:06:33.430Z] Kill pro (2778) with FA26b->Gun->F45A (20.4)  Elo gained: 130. New Elo: 3761
+[2025-02-08T21:07:53.011Z] Death to Goose (2090) with FA26b->AIRST->FA26b (2.8)  Elo lost: 76. New Elo: 3685
+[2025-02-08T21:11:36.715Z] Kill themusicwiz (1577) with FA26b->CFIT->EF24G (4.2) Distance: 8.5nm Elo gained: 4. New Elo: 3689
+[2025-02-08T21:12:45.161Z] Death to alyx (3763) with FA26b->AIM7->FA26b (6.4)  Elo lost: 64. New Elo: 3625
+[2025-02-08T21:15:45.686Z] Death to pro (2818) with F45A->AIM120->FA26b (0.9)  Elo lost: 16. New Elo: 3608
+[2025-02-08T21:18:26.534Z] Kill pro (2808) with FA26b->CFIT->F45A (4.2) Distance: 5.5nm Elo gained: 26. New Elo: 3634
+[2025-02-08T21:24:57.976Z] Kill rich (2056) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 52. New Elo: 3686
+[2025-02-08T21:25:13.225Z] Death to alyx (3926) with FA26b->AIM9E->FA26b (22.0)  Elo lost: 150. New Elo: 3536
+[2025-02-08T21:30:50.658Z] Kill Max (2035) with FA26b->Gun->FA26b (9.7)  Elo gained: 26. New Elo: 3562
+[2025-02-08T21:31:16.734Z] Death to alyx (3979) with FA26b->AIM7->FA26b (6.4)  Elo lost: 53. New Elo: 3509
+[2025-02-08T21:36:18.049Z] Logout
+[2025-02-08T21:36:58.871Z] Login
+[2025-02-08T21:42:00.474Z] Kill Hatback (2847) with FA26b->AIM7->FA26b (6.4)  Elo gained: 45. New Elo: 3554
+[2025-02-08T21:42:02.245Z] Death to Hatback (2894) with FA26b->AIRST->FA26b (2.8)  Elo lost: 47. New Elo: 3507
+[2025-02-08T21:48:57.423Z] Kill themusicwiz (1585) with FA26b->AIM7->EF24G (10.7)  Elo gained: 11. New Elo: 3517
+[2025-02-08T21:49:51.630Z] Kill alyx (3921) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 150. New Elo: 3667
+[2025-02-08T21:49:52.488Z] Death to olive (1947) with FA26b->AIM120->FA26b (1.0)  Elo lost: 27. New Elo: 3640
+[2025-02-08T21:55:54.812Z] Kill yasseen (1694) with FA26b->CFIT->EF24G (10.7) Distance: 4.5nm Elo gained: 11. New Elo: 3650
+[2025-02-08T21:56:43.610Z] Kill echoviperussy (2056) with FA26b->AIM9->FA26b (2.8)  Elo gained: 6. New Elo: 3656
+[2025-02-08T21:57:06.039Z] Death to teamkill from HAMMER no elo lost
+[2025-02-08T22:00:53.195Z] Death to yasseen (1731) with EF24G->AIM120->FA26b (0.9)  Elo lost: 27. New Elo: 3629
+[2025-02-08T22:08:49.147Z] Death to Foz (2051) with EF24G->AIRST->FA26b (3.1)  Elo lost: 81. New Elo: 3548
+[2025-02-08T22:19:30.246Z] Kill Styx (3332) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 150. New Elo: 3698
+[2025-02-08T22:20:59.429Z] Kill sandcat (1990) with FA26b->CFIT->FA26b (6.4) Distance: 3.6nm Elo gained: 10. New Elo: 3708
+[2025-02-08T22:22:19.194Z] Kill saint (1987) with FA26b->AIM9->T55 (2.8)  Elo gained: 4. New Elo: 3712
+[2025-02-08T22:22:25.641Z] Death to Styx (3346) with FA26b->AIM120->FA26b (1.0)  Elo lost: 14. New Elo: 3698
+[2025-02-08T22:27:29.027Z] Death to bigpp (3022) with EF24G->AIM54->FA26b (5.5)  Elo lost: 97. New Elo: 3601
+[2025-02-08T22:30:32.720Z] Kill bigpp (2996) with FA26b->AIM9->EF24G (4.2)  Elo gained: 30. New Elo: 3631
+[2025-02-08T22:31:53.764Z] Kill Styx (3405) with FA26b->Gun->FA26b (9.7)  Elo gained: 91. New Elo: 3722
+[2025-02-08T22:32:16.600Z] Death to Jackstraw (1960) with F45A->AIM9X->FA26b (3.1)  Elo lost: 87. New Elo: 3635
+[2025-02-08T22:36:18.856Z] Logout
+[2025-02-08T22:36:57.519Z] Login
+[2025-02-08T22:41:53.550Z] Kill saint (2006) with FA26b->CFIT->T55 (1.0) Distance: 14.4nm Elo gained: 2. New Elo: 3637
+[2025-02-08T22:46:21.340Z] Death to rich (2349) with FA26b->AIM120->FA26b (1.0)  Elo lost: 23. New Elo: 3614
+[2025-02-08T22:49:54.856Z] Kill doctordoink (2116) with FA26b->AIM9->EF24G (4.2)  Elo gained: 11. New Elo: 3624
+[2025-02-08T22:50:30.544Z] Kill Styx (3261) with FA26b->Gun->FA26b (9.7)  Elo gained: 84. New Elo: 3708
+[2025-02-08T22:51:42.999Z] Death to Styx (3402) with FA26b->Gun->FA26b (9.7)  Elo lost: 141. New Elo: 3567
+[2025-02-08T22:51:44.022Z] Kill xingy (2695) with FA26b->CFIT->EF24G (20.4) Distance: 0.3nm Elo gained: 128. New Elo: 3695
+[2025-02-08T22:55:58.689Z] Kill Styx (3252) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 150. New Elo: 3845
+[2025-02-08T22:56:28.134Z] Death to xingy (2761) with EF24G->AIRST->FA26b (3.1)  Elo lost: 66. New Elo: 3779
+[2025-02-08T22:59:16.693Z] Kill snaddy (1971) with FA26b->AIM9E->EF24G (46.3)  Elo gained: 58. New Elo: 3837
+[2025-02-08T23:02:33.081Z] Kill Styx (3102) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 150. New Elo: 3987
+[2025-02-08T23:03:30.361Z] Kill snaddy (1925) with FA26b->AIM9E->EF24G (46.3)  Elo gained: 46. New Elo: 4033
+[2025-02-08T23:04:15.697Z] Kill xMix (2025) with FA26b->AIM7->F45A (10.7)  Elo gained: 11. New Elo: 4044
+[2025-02-08T23:05:26.857Z] Kill xingy (2714) with FA26b->CFIT->EF24G (20.4) Distance: 0.1nm Elo gained: 76. New Elo: 4120
+[2025-02-08T23:06:53.806Z] Kill Styx (2994) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 108. New Elo: 4228
+[2025-02-08T23:07:53.480Z] Kill snaddy (1915) with FA26b->Gun->FA26b (9.7)  Elo gained: 10. New Elo: 4238
+[2025-02-08T23:16:15.984Z] Death to xingy (2822) with EF24G->AIRST->FA26b (3.1)  Elo lost: 76. New Elo: 4161
+[2025-02-08T23:19:00.719Z] Kill Styx (2981) with FA26b->Gun->FA26b (9.7)  Elo gained: 42. New Elo: 4203
+[2025-02-08T23:22:56.112Z] Death to rich (2471) with FA26b->AIRST->FA26b (2.8)  Elo lost: 78. New Elo: 4126
+[2025-02-08T23:27:28.154Z] Kill sandcat (2040) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 22. New Elo: 4148
+[2025-02-08T23:29:22.651Z] Kill snaddy (2061) with FA26b->Gun->FA26b (9.7)  Elo gained: 10. New Elo: 4157
+[2025-02-08T23:35:10.957Z] Logout
+[2025-02-09T00:04:34.443Z] Login
+[2025-02-09T00:05:26.620Z] Logout
+[2025-02-09T00:05:59.805Z] Login
+[2025-02-09T00:08:19.520Z] Death to Eli Copter (3276) with EF24G->AIM54->FA26b (5.5)  Elo lost: 109. New Elo: 4049
+[2025-02-09T00:14:08.700Z] Kill Killer (2274) with FA26b->AIM9->F45A (4.2)  Elo gained: 5. New Elo: 4054
+[2025-02-09T00:16:44.149Z] Kill NZD (3012) with FA26b->AIM7->EF24G (10.7)  Elo gained: 54. New Elo: 4107
+[2025-02-09T00:17:33.236Z] Death to rich (2809) with FA26b->AIM7->FA26b (6.4)  Elo lost: 150. New Elo: 3957
+[2025-02-09T00:21:43.089Z] Kill bigboy69 (1655) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 22. New Elo: 3979
+[2025-02-09T00:24:19.354Z] Kill noughty (3005) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 126. New Elo: 4106
+[2025-02-09T00:25:11.222Z] Death to NZD (2931) with EF24G->AIM9X->FA26b (3.1)  Elo lost: 69. New Elo: 4037
+[2025-02-09T00:30:14.972Z] Death to rich (2905) with FA26b->AIM120->FA26b (1.0)  Elo lost: 22. New Elo: 4016
+[2025-02-09T00:35:29.289Z] Kill bigboy69 (1750) with FA26b->AIM7->F45A (10.7)  Elo gained: 11. New Elo: 4026
+[2025-02-09T00:36:20.489Z] Logout
+[2025-02-09T00:36:50.546Z] Login
+[2025-02-09T00:41:27.892Z] Death to Trigger (3868) with F45A->Gun->FA26b (12.8)  Elo lost: 150. New Elo: 3876
+[2025-02-09T00:43:54.902Z] Kill noughty (2868) with FA26b->AIM7->FA26b (6.4)  Elo gained: 33. New Elo: 3909
+[2025-02-09T00:44:40.480Z] Kill typical224 (2146) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 29. New Elo: 3939
+[2025-02-09T00:47:24.826Z] Kill manny (2110) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 22. New Elo: 3961
+[2025-02-09T00:47:45.115Z] Death to Trigger (4051) with F45A->Gun->FA26b (12.8)  Elo lost: 133. New Elo: 3827
+[2025-02-09T00:49:54.488Z] Kill NZD (2567) with FA26b->CFIT->EF24G (10.7) Distance: 1.7nm Elo gained: 42. New Elo: 3869
+[2025-02-09T00:51:47.092Z] Kill typical224 (2169) with FA26b->AIM9->FA26b (2.8)  Elo gained: 4. New Elo: 3873
+[2025-02-09T00:52:20.292Z] Death to Trigger (4168) with F45A->Gun->FA26b (12.8)  Elo lost: 116. New Elo: 3757
+[2025-02-09T00:55:50.386Z] Death to Trigger (4500) with F45A->Gun->FA26b (12.8)  Elo lost: 86. New Elo: 3671
+[2025-02-09T00:58:12.740Z] Death to noughty (3080) with FA26b->Gun->FA26b (9.7)  Elo lost: 150. New Elo: 3521
+[2025-02-09T01:02:46.950Z] Kill NZD (2412) with FA26b->AIM9->EF24G (4.2)  Elo gained: 19. New Elo: 3540
+[2025-02-09T01:03:59.382Z] Death to Trigger (4505) with F45A->AIM120->FA26b (0.9)  Elo lost: 5. New Elo: 3535
+[2025-02-09T01:07:26.092Z] Teamkill cat boy Elo lost: 0. New Elo: 3535
+[2025-02-09T01:08:17.411Z] Kill NZD (2401) with FA26b->AIM9->EF24G (4.2)  Elo gained: 19. New Elo: 3554
+[2025-02-09T01:08:35.464Z] Death to Trigger (4721) with F45A->Gun->FA26b (12.8)  Elo lost: 57. New Elo: 3497
+[2025-02-09T01:08:35.751Z] Kill Trigger (4627) with FA26b->AIM9->F45A (4.2)  Elo gained: 94. New Elo: 3591
+[2025-02-09T01:14:35.166Z] Kill Trigger (4481) with FA26b->Gun->F45A (20.4)  Elo gained: 150. New Elo: 3741
+[2025-02-09T01:14:35.260Z] Death to Trigger (4561) with F45A->Gun->FA26b (12.8)  Elo lost: 81. New Elo: 3661
+[2025-02-09T01:17:30.202Z] Kill BlueNekoTran (2739) with FA26b->Gun->FA26b (9.7)  Elo gained: 55. New Elo: 3716
+[2025-02-09T01:17:37.499Z] Death to teamkill from ajak48 no elo lost
+[2025-02-09T01:21:47.224Z] Kill Trigger (4483) with FA26b->AIM9->F45A (4.2)  Elo gained: 78. New Elo: 3794
+[2025-02-09T01:22:05.906Z] Death to teamkill from kelt no elo lost
+[2025-02-09T01:24:22.325Z] Death to NZD (2657) with EF24G->AIM7->FA26b (5.5)  Elo lost: 124. New Elo: 3670
+[2025-02-09T01:32:46.146Z] Death to NZD (2683) with EF24G->AIM120->FA26b (0.9)  Elo lost: 18. New Elo: 3652
+[2025-02-09T01:36:21.005Z] Logout
+[2025-02-09T01:36:52.371Z] Login
+[2025-02-09T01:39:54.258Z] Logout
+[2025-02-09T21:11:42.059Z] Login
+[2025-02-09T21:16:12.422Z] Kill sargeLT (1889) with FA26b->AIM9E->T55 (22.0)  Elo gained: 29. New Elo: 3681
+[2025-02-09T21:17:17.392Z] Kill SovietCat5 (1826) with FA26b->Gun->T55 (9.7)  Elo gained: 10. New Elo: 3691
+[2025-02-09T21:18:11.669Z] Death to Jatty Gooncave Skleebs (3434) with EF24G->AIRST->FA26b (3.1)  Elo lost: 40. New Elo: 3651
+[2025-02-09T21:20:18.075Z] Kill Jatty Gooncave Skleebs (3404) with FA26b->AIM9->EF24G (4.2)  Elo gained: 38. New Elo: 3689
+[2025-02-09T21:21:52.830Z] Logout
+[2025-02-09T21:22:43.269Z] Login
+[2025-02-09T21:28:31.642Z] Kill ethan (1394) with FA26b->AIM7->F45A (10.7)  Elo gained: 11. New Elo: 3700
+[2025-02-09T21:31:33.485Z] Death to Flop (3661) with T55->AIRST->FA26b (2.8)  Elo lost: 30. New Elo: 3670
+[2025-02-09T21:45:07.846Z] Death to rich (2671) with EF24G->AIM120->FA26b (0.9)  Elo lost: 18. New Elo: 3652
+[2025-02-09T21:50:37.557Z] Death to rich (2763) with FA26b->AIRST->FA26b (2.8)  Elo lost: 54. New Elo: 3598
+[2025-02-09T21:57:22.218Z] Kill kye (2110) with FA26b->AIM9->EF24G (4.2)  Elo gained: 11. New Elo: 3610
+[2025-02-09T22:00:18.320Z] Kill kye (2084) with FA26b->AIM7->EF24G (10.7)  Elo gained: 27. New Elo: 3636
+[2025-02-09T22:01:52.415Z] Kill DannyCOTW (3047) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 150. New Elo: 3786
+[2025-02-09T22:02:03.129Z] Death to Flop (3981) with T55->AIRST->FA26b (2.8)  Elo lost: 25. New Elo: 3761
+[2025-02-09T22:06:41.159Z] Death to Flop (4038) with T55->AIM7->FA26b (6.4)  Elo lost: 57. New Elo: 3704
+[2025-02-09T22:09:34.379Z] Kill snaddy (1955) with FA26b->AIM7->EF24G (10.7)  Elo gained: 14. New Elo: 3718
+[2025-02-09T22:10:36.019Z] Death to DannyCOTW (3359) with FA26b->AIM9E->FA26b (22.0)  Elo lost: 150. New Elo: 3568
+[2025-02-09T22:14:34.757Z] Kill snaddy (1934) with FA26b->AIM7->EF24G (10.7)  Elo gained: 21. New Elo: 3588
+[2025-02-09T22:16:54.214Z] Death to Leaguen (3392) with T55->AIRST->FA26b (2.8)  Elo lost: 34. New Elo: 3554
+[2025-02-09T22:20:42.329Z] Kill DannyCOTW (3294) with FA26b->AIM9->FA26b (2.8)  Elo gained: 24. New Elo: 3579
+[2025-02-09T22:21:08.468Z] Kill Leaguen (3317) with FA26b->Gun->T55 (9.7)  Elo gained: 89. New Elo: 3668
+[2025-02-09T22:21:33.385Z] Kill snaddy (1880) with FA26b->AIM9E->EF24G (46.3)  Elo gained: 64. New Elo: 3732
+[2025-02-09T22:21:53.669Z] Logout
+[2025-02-09T22:22:34.253Z] Login
+[2025-02-09T22:27:39.186Z] Kill snaddy (1869) with FA26b->AIM7->F45A (10.7)  Elo gained: 11. New Elo: 3742
+[2025-02-09T22:31:07.137Z] Kill snaddy (1865) with FA26b->AIM9->F45A (4.2)  Elo gained: 4. New Elo: 3746
+[2025-02-09T22:32:51.983Z] Death to sam (2816) with T55->AIRST->FA26b (2.8)  Elo lost: 55. New Elo: 3692
+[2025-02-09T22:37:56.440Z] Kill sam (2776) with FA26b->AIM7->T55 (6.4)  Elo gained: 36. New Elo: 3728
+[2025-02-09T22:39:14.999Z] Kill snaddy (1842) with FA26b->Gun->F45A (20.4)  Elo gained: 20. New Elo: 3748
+[2025-02-09T22:39:22.627Z] Death to snaddy (1992) with F45A->Gun->FA26b (12.8)  Elo lost: 150. New Elo: 3598
+[2025-02-09T22:44:48.603Z] Kill sam (2722) with FA26b->AIM7->T55 (6.4)  Elo gained: 37. New Elo: 3635
+[2025-02-09T22:46:37.011Z] Kill cosmo (1982) with FA26b->CFIT->FA26b (9.7) Distance: 0.9nm Elo gained: 18. New Elo: 3653
+[2025-02-09T22:46:45.043Z] Death to snaddy (2014) with F45A->AIM120->FA26b (0.9)  Elo lost: 24. New Elo: 3629
+[2025-02-09T22:49:55.677Z] Death to snaddy (2038) with F45A->AIM120->FA26b (0.9)  Elo lost: 24. New Elo: 3605
+[2025-02-09T22:55:06.957Z] Death to snaddy (2077) with F45A->AIM120->FA26b (0.9)  Elo lost: 23. New Elo: 3582
+[2025-02-09T22:59:12.806Z] Kill bigpp (2711) with FA26b->AIM7->EF24G (10.7)  Elo gained: 64. New Elo: 3646
+[2025-02-09T23:01:13.624Z] Death to cody standring (2063) with FA26b->AIM9->FA26b (2.8)  Elo lost: 73. New Elo: 3573
+[2025-02-09T23:07:03.610Z] Kill snaddy (2091) with FA26b->AIM9->F45A (4.2)  Elo gained: 11. New Elo: 3584
+[2025-02-09T23:07:19.860Z] Death to Styx (3231) with FA26b->AIRST->FA26b (2.8)  Elo lost: 38. New Elo: 3545
+[2025-02-09T23:12:14.109Z] Death to snaddy (2225) with F45A->AIM9X->FA26b (3.1)  Elo lost: 73. New Elo: 3472
+[2025-02-09T23:13:20.177Z] Logout
+[2025-02-10T01:01:34.697Z] Login
+[2025-02-10T01:08:28.000Z] Kill Goggles (1827) with FA26b->AIM9E->EF24G (46.3)  Elo gained: 107. New Elo: 3579
+[2025-02-10T01:10:45.749Z] Kill fikzey (2021) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 54. New Elo: 3634
+[2025-02-10T01:13:23.510Z] Kill Gray (1916) with FA26b->CFIT->FA26b (1.0) Distance: 18.9nm Elo gained: 1. New Elo: 3635
+[2025-02-10T01:14:31.090Z] Kill BigOunce (1927) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 36. New Elo: 3671
+[2025-02-10T01:21:55.675Z] Logout
+[2025-02-10T01:22:46.922Z] Login
+[2025-02-10T01:24:34.630Z] Logout
+[2025-02-15T03:09:58.059Z] Login
+[2025-02-15T03:15:59.619Z] Kill Prius (3728) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 150. New Elo: 3821
+[2025-02-15T03:17:57.413Z] Death to Jimithy (3044) with F45A->CFIT->FA26b (12.8) Distance: 0.2nm Elo lost: 150. New Elo: 3671
+[2025-02-15T03:22:17.558Z] Kill Jimithy (2922) with FA26b->Gun->F45A (20.4)  Elo gained: 142. New Elo: 3813
+[2025-02-15T03:25:38.069Z] Kill viper (1938) with FA26b->CFIT->FA26b (1.0) Distance: 17.8nm Elo gained: 1. New Elo: 3814
+[2025-02-15T03:28:46.396Z] Kill Jimithy (2809) with FA26b->Gun->F45A (20.4)  Elo gained: 113. New Elo: 3927
+[2025-02-15T03:36:35.640Z] Kill Jimithy (2799) with FA26b->AIM9->F45A (4.2)  Elo gained: 19. New Elo: 3945
+[2025-02-15T03:37:01.289Z] Death to cosmo (1906) with EF24G->AIM120->FA26b (0.9)  Elo lost: 28. New Elo: 3918
+[2025-02-15T03:40:45.494Z] Kill colton (1887) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 22. New Elo: 3940
+[2025-02-15T03:52:47.935Z] Kill viper (1885) with FA26b->AIM7->FA26b (6.4)  Elo gained: 6. New Elo: 3946
+[2025-02-15T03:53:01.653Z] Kill charles (1940) with FA26b->CFIT->FA26b (1.0) Distance: 15.2nm Elo gained: 1. New Elo: 3947
+[2025-02-15T03:53:10.613Z] Logout
+[2025-02-15T03:53:38.460Z] Login
+[2025-02-15T03:58:45.450Z] Kill cosmo (1777) with F45A->CFIT->EF24G (3.9) Distance: 5.6nm Elo gained: 4. New Elo: 3951
+[2025-02-15T04:01:21.866Z] Kill AQSH20 (2066) with F45A->CFIT->FA26b (0.9) Distance: 17.6nm Elo gained: 1. New Elo: 3952
+[2025-02-15T04:02:14.797Z] Kill AQSH20 (2065) with F45A->CFIT->FA26b (0.9) Distance: 17.7nm Elo gained: 1. New Elo: 3953
+[2025-02-15T04:10:51.518Z] Death to AQSH20 (2268) with FA26b->AIRST->F45A (4.2)  Elo lost: 118. New Elo: 3834
+[2025-02-15T04:13:44.493Z] Death to shoota peet (1933) with EF24G->AIM120->F45A (1.3)  Elo lost: 38. New Elo: 3797
+[2025-02-15T04:30:46.239Z] Death to raster (2343) with F45A->Gun->F45A (30.9)  Elo lost: 150. New Elo: 3647
+[2025-02-15T04:35:46.222Z] Death to shoota peet (1992) with EF24G->AIM120->F45A (1.3)  Elo lost: 34. New Elo: 3612
+[2025-02-15T04:39:13.041Z] Death to shoota peet (2025) with EF24G->AIM120->F45A (1.3)  Elo lost: 34. New Elo: 3579
+[2025-02-15T04:51:23.506Z] Death to raster (2605) with F45A->Gun->F45A (30.9)  Elo lost: 150. New Elo: 3429
+[2025-02-15T04:53:11.134Z] Logout
+[2025-02-15T04:54:07.762Z] Login
+[2025-02-15T05:02:56.953Z] Death to raster (2678) with F45A->AIM120->FA26b (0.9)  Elo lost: 16. New Elo: 3413
+[2025-02-15T05:04:47.656Z] Kill cosmo (1782) with FA26b->CFIT->EF24G (10.7) Distance: 1.8nm Elo gained: 21. New Elo: 3433
+[2025-02-15T05:08:40.503Z] Death to willie (2111) with EF24G->AIM120->FA26b (0.9)  Elo lost: 21. New Elo: 3412
+[2025-02-15T05:14:44.778Z] Death to willie (2134) with EF24G->AIM120->FA26b (0.9)  Elo lost: 21. New Elo: 3391
+[2025-02-15T05:18:38.903Z] Kill raster (2653) with FA26b->AIM9->F45A (4.2)  Elo gained: 27. New Elo: 3419
+[2025-02-15T05:21:00.525Z] Kill cosmo (1687) with FA26b->AIM9E->EF24G (46.3)  Elo gained: 81. New Elo: 3499
+[2025-02-15T05:21:43.870Z] Death to willie (2181) with FA26b->CFIT->FA26b (2.8) Distance: 8.8nm Elo lost: 66. New Elo: 3434
+[2025-02-15T05:26:15.815Z] Death to cosmo (1712) with EF24G->AIM120->FA26b (0.9)  Elo lost: 25. New Elo: 3409
+[2025-02-15T05:31:08.550Z] Kill whiskey (1761) with FA26b->AIM9E->T55 (22.0)  Elo gained: 43. New Elo: 3452
+[2025-02-15T05:34:44.629Z] Death to teamkill from Shiner3178 no elo lost
+[2025-02-15T05:35:11.560Z] Logout
+[2025-02-15T19:33:46.825Z] Login
+[2025-02-15T19:38:44.063Z] Death to Jatty Gooncave Skleebs (3133) with F45A->AIM9X->FA26b (3.1)  Elo lost: 42. New Elo: 3410
+[2025-02-15T19:50:33.173Z] Kill SneezyDinosaur (2487) with FA26b->Gun->FA26b (9.7)  Elo gained: 55. New Elo: 3466
+[2025-02-15T19:51:40.304Z] Death to Jatty Gooncave Skleebs (3512) with F45A->Gun->FA26b (12.8)  Elo lost: 140. New Elo: 3326
+[2025-02-15T19:53:18.761Z] Logout
+[2025-02-15T19:53:59.627Z] Login
+[2025-02-15T19:59:26.337Z] Kill xingy (2460) with FA26b->AIM9->F45A (4.2)  Elo gained: 24. New Elo: 3350
+[2025-02-15T20:00:28.400Z] Kill Max (1856) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 62. New Elo: 3413
+[2025-02-15T20:01:27.700Z] Death to yytttt66 (2507) with FA26b->AIM120->FA26b (1.0)  Elo lost: 19. New Elo: 3393
+[2025-02-15T20:04:44.429Z] Kill rosey (3472) with FA26b->AIM9->EF24G (4.2)  Elo gained: 48. New Elo: 3441
+[2025-02-15T20:04:51.792Z] Death to teamkill from Lautta no elo lost
+[2025-02-15T20:09:35.678Z] Death to SneezyDinosaur (2461) with EF24G->AIRST->FA26b (3.1)  Elo lost: 62. New Elo: 3379
+[2025-02-15T20:13:14.313Z] Kill yytttt66 (2419) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 128. New Elo: 3507
+[2025-02-15T20:13:25.069Z] Death to teamkill from fly2 no elo lost
+[2025-02-15T20:15:52.593Z] Death to Jatty Gooncave Skleebs (3506) with F45A->AIM120->FA26b (0.9)  Elo lost: 9. New Elo: 3498
+[2025-02-15T20:18:10.224Z] Death to Jatty Gooncave Skleebs (3536) with F45A->AIM9X->FA26b (3.1)  Elo lost: 30. New Elo: 3467
+[2025-02-15T20:26:36.897Z] Kill jamie (1964) with FA26b->AIM9->FA26b (2.8)  Elo gained: 7. New Elo: 3474
+[2025-02-15T20:26:50.278Z] Death to Frendum (3207) with FA26b->AIM7->FA26b (6.4)  Elo lost: 87. New Elo: 3387
+[2025-02-15T20:30:15.874Z] Death to noughty (2819) with FA26b->AIRST->FA26b (2.8)  Elo lost: 45. New Elo: 3342
+[2025-02-15T20:33:30.918Z] Death to shaharola (1928) with FA26b->AIM120->FA26b (1.0)  Elo lost: 24. New Elo: 3318
+[2025-02-15T20:35:55.459Z] Death to Jatty Gooncave Skleebs (3546) with F45A->AIM120->FA26b (0.9)  Elo lost: 8. New Elo: 3310
+[2025-02-15T20:36:00.540Z] Kill Frendum (3140) with FA26b->Gun->FA26b (9.7)  Elo gained: 94. New Elo: 3404
+[2025-02-15T20:38:36.453Z] Kill rosey (3322) with FA26b->AIM7->EF24G (10.7)  Elo gained: 109. New Elo: 3513
+[2025-02-15T20:42:29.169Z] Kill noughty (2672) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 143. New Elo: 3656
+[2025-02-15T20:43:47.020Z] Death to rosey (3492) with EF24G->Gun->FA26b (12.8)  Elo lost: 150. New Elo: 3506
+[2025-02-15T20:47:33.997Z] Kill Frendum (3149) with FA26b->AIM9->FA26b (2.8)  Elo gained: 23. New Elo: 3529
+[2025-02-15T20:47:35.100Z] Death to Frendum (3187) with FA26b->AIRST->FA26b (2.8)  Elo lost: 38. New Elo: 3491
+[2025-02-15T20:52:51.598Z] Kill Frendum (3037) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 150. New Elo: 3641
+[2025-02-15T20:53:05.195Z] Kill monkeypro244 (1981) with FA26b->CFIT->FA26b (1.0) Distance: 16.8nm Elo gained: 2. New Elo: 3643
+[2025-02-15T20:53:19.390Z] Logout
+[2025-02-15T20:53:49.512Z] Login
+[2025-02-15T20:53:54.858Z] Logout
+[2025-02-15T23:58:03.269Z] Login
+[2025-02-16T00:05:09.011Z] Death to KronaSamu (3469) with F45A->Gun->FA26b (12.8)  Elo lost: 150. New Elo: 3493
+[2025-02-16T00:12:19.781Z] Death to KronaSamu (3443) with F45A->AIM120->FA26b (0.9)  Elo lost: 10. New Elo: 3483
+[2025-02-16T00:19:06.706Z] Kill Rasputin (2070) with FA26b->AIM9E->T55 (22.0)  Elo gained: 72. New Elo: 3555
+[2025-02-16T00:20:16.790Z] Death to KronaSamu (3421) with F45A->AIM120->FA26b (0.9)  Elo lost: 10. New Elo: 3545
+[2025-02-16T00:31:14.677Z] Death to ramcham (2098) with EF24G->AIRST->FA26b (3.1)  Elo lost: 77. New Elo: 3468
+[2025-02-16T00:36:17.321Z] Kill rosey (3246) with FA26b->Gun->EF24G (20.4)  Elo gained: 150. New Elo: 3618
+[2025-02-16T00:37:41.024Z] Kill biggyboy (1873) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 31. New Elo: 3649
+[2025-02-16T00:38:04.064Z] Death to teamkill from yytttt66 no elo lost
+[2025-02-16T00:42:34.404Z] Kill KronaSamu (3502) with FA26b->AIM7->F45A (10.7)  Elo gained: 104. New Elo: 3754
+[2025-02-16T00:43:13.897Z] Death to rosey (3302) with EF24G->AIM7->FA26b (5.5)  Elo lost: 84. New Elo: 3670
+[2025-02-16T00:48:07.050Z] Death to KronaSamu (3651) with F45A->Gun->FA26b (12.8)  Elo lost: 149. New Elo: 3520
+[2025-02-16T00:52:59.322Z] Kill Gordon (1961) with FA26b->AIM7->FA26b (6.4)  Elo gained: 15. New Elo: 3535
+[2025-02-16T00:53:22.966Z] Logout
+[2025-02-16T00:54:16.776Z] Login
+[2025-02-16T01:00:30.432Z] Death to KronaSamu (3609) with F45A->AIM120->FA26b (0.9)  Elo lost: 9. New Elo: 3526
+[2025-02-16T01:04:48.587Z] Kill rosey (3184) with FA26b->AIM7->EF24G (10.7)  Elo gained: 93. New Elo: 3620
+[2025-02-16T01:06:21.835Z] Kill cat boy (3511) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 150. New Elo: 3770
+[2025-02-16T01:06:55.086Z] Kill fartimus johnson (1960) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 23. New Elo: 3793
+[2025-02-16T01:08:02.343Z] Kill rosey (3133) with FA26b->AIM7->EF24G (10.7)  Elo gained: 75. New Elo: 3868
+[2025-02-16T01:08:53.348Z] Kill KronaSamu (3478) with FA26b->CFIT->F45A (10.7) Distance: 1.3nm Elo gained: 91. New Elo: 3959
+[2025-02-16T01:19:34.616Z] Death to rosey (3172) with EF24G->AIRST->FA26b (3.1)  Elo lost: 56. New Elo: 3902
+[2025-02-16T01:20:26.667Z] Logout
+[2025-02-16T01:21:35.686Z] Login
+[2025-02-16T01:27:23.063Z] Kill KronaSamu (3553) with FA26b->AIM7->F45A (10.7)  Elo gained: 93. New Elo: 3995
+[2025-02-16T01:30:23.635Z] Death to cat boy (3915) with FA26b->AIM9->FA26b (2.8)  Elo lost: 31. New Elo: 3965
+[2025-02-16T01:34:56.355Z] Death to rosey (3280) with EF24G->AIRST->FA26b (3.1)  Elo lost: 53. New Elo: 3911
+[2025-02-16T01:40:12.375Z] Death to teamkill from Eslam no elo lost
+[2025-02-16T01:46:15.633Z] Death to KronaSamu (3772) with F45A->Gun->FA26b (12.8)  Elo lost: 150. New Elo: 3761
+[2025-02-16T01:49:53.690Z] Death to cat boy (4029) with FA26b->Gun->FA26b (9.7)  Elo lost: 89. New Elo: 3673
+[2025-02-16T01:53:23.767Z] Logout
+[2025-02-16T01:54:17.840Z] Login
+[2025-02-16T01:59:54.394Z] Death to KronaSamu (3680) with F45A->AIM120->FA26b (0.9)  Elo lost: 9. New Elo: 3664
+[2025-02-16T01:59:59.281Z] Kill KronaSamu (3637) with FA26b->AIM9->F45A (4.2)  Elo gained: 43. New Elo: 3707
+[2025-02-16T02:04:34.253Z] Death to KronaSamu (3649) with F45A->AIM120->FA26b (0.9)  Elo lost: 10. New Elo: 3697
+[2025-02-16T02:07:43.182Z] Kill matt (2099) with FA26b->AIM9->FA26b (2.8)  Elo gained: 6. New Elo: 3703
+[2025-02-16T02:08:19.366Z] Death to xingy (2604) with EF24G->AIM7->FA26b (5.5)  Elo lost: 121. New Elo: 3581
+[2025-02-16T02:15:15.794Z] Death to rosey (3429) with EF24G->AIM9X->FA26b (3.1)  Elo lost: 36. New Elo: 3545
+[2025-02-16T02:17:45.812Z] Death to KronaSamu (3622) with F45A->AIM120->FA26b (0.9)  Elo lost: 9. New Elo: 3536
+[2025-02-16T02:20:26.267Z] Kill Sethbot (1930) with FA26b->AIM7->FA26b (6.4)  Elo gained: 13. New Elo: 3549
+[2025-02-16T02:20:44.797Z] Kill KronaSamu (3591) with FA26b->AIM9->F45A (4.2)  Elo gained: 46. New Elo: 3595
+[2025-02-16T02:22:35.502Z] Death to rosey (3460) with EF24G->AIM7->FA26b (5.5)  Elo lost: 66. New Elo: 3530
+[2025-02-16T02:26:56.909Z] Death to KronaSamu (3613) with F45A->AIM120->FA26b (0.9)  Elo lost: 9. New Elo: 3521
+[2025-02-16T02:30:52.562Z] Kill matt (2015) with FA26b->AIM7->FA26b (6.4)  Elo gained: 16. New Elo: 3537
+[2025-02-16T02:31:45.892Z] Death to pojo (2345) with T55->AIM120->FA26b (1.0)  Elo lost: 22. New Elo: 3515
+[2025-02-16T02:35:26.307Z] Kill KronaSamu (3582) with FA26b->AIM7->F45A (10.7)  Elo gained: 127. New Elo: 3642
+[2025-02-16T02:36:23.687Z] Kill pojo (2302) with FA26b->AIM9E->T55 (22.0)  Elo gained: 81. New Elo: 3724
+[2025-02-16T02:39:02.512Z] Kill rizzladen (1846) with FA26b->AIM9E->T55 (22.0)  Elo gained: 22. New Elo: 3746
+[2025-02-16T02:40:52.582Z] Kill rizzladen (1845) with FA26b->CFIT->T55 (1.0) Distance: 19.8nm Elo gained: 1. New Elo: 3747
+[2025-02-16T02:43:09.034Z] Kill Sethbot (1923) with FA26b->AIM9->FA26b (2.8)  Elo gained: 3. New Elo: 3749
+[2025-02-16T02:43:28.197Z] Kill pojo (2245) with FA26b->Gun->EF24G (20.4)  Elo gained: 56. New Elo: 3806
+[2025-02-16T02:44:57.342Z] Kill raster (2409) with FA26b->AIM9->EF24G (4.2)  Elo gained: 13. New Elo: 3819
+[2025-02-16T02:45:57.337Z] Kill KronaSamu (3411) with FA26b->Gun->F45A (20.4)  Elo gained: 150. New Elo: 3969
+[2025-02-16T02:46:35.936Z] Death to Sethbot (2007) with FA26b->CFIT->FA26b (2.8) Distance: 5.6nm Elo lost: 84. New Elo: 3885
+[2025-02-16T02:52:54.237Z] Death to rizzladen (1876) with T55->AIM120->FA26b (1.0)  Elo lost: 30. New Elo: 3854
+[2025-02-16T02:53:24.670Z] Logout
+[2025-02-19T22:34:21.022Z] Login
+[2025-02-19T22:42:30.108Z] Kill sniffy69 (1921) with FA26b->CFIT->FA26b (6.4) Distance: 1.8nm Elo gained: 6. New Elo: 3861
+[2025-02-19T22:42:59.929Z] Kill doggiebag (1987) with FA26b->Gun->FA26b (9.7)  Elo gained: 10. New Elo: 3870
+[2025-02-19T22:46:34.528Z] Kill Dotwallop (1969) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 22. New Elo: 3892
+[2025-02-19T22:47:12.896Z] Kill Dr Pepper (1831) with FA26b->AIM7->EF24G (10.7)  Elo gained: 11. New Elo: 3903
+[2025-02-19T22:47:53.928Z] Kill doggiebag (1998) with FA26b->CFIT->FA26b (9.7) Distance: 0.1nm Elo gained: 10. New Elo: 3913
+[2025-02-19T22:48:03.171Z] Death to Sakeredd (2099) with F45A->AIM120->FA26b (0.9)  Elo lost: 26. New Elo: 3887
+[2025-02-19T22:52:16.687Z] Kill Sakeredd (2104) with FA26b->AIM9->F45A (4.2)  Elo gained: 5. New Elo: 3892
+[2025-02-19T22:53:42.516Z] Kill sniffy69 (1899) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 22. New Elo: 3914
+[2025-02-19T22:56:46.455Z] Death to zak (1744) with FA26b->AIM120->FA26b (1.0)  Elo lost: 32. New Elo: 3882
+[2025-02-19T22:59:55.451Z] Kill Helios (1942) with FA26b->AIM7->FA26b (6.4)  Elo gained: 6. New Elo: 3888
+[2025-02-19T23:00:00.037Z] Death to Helios (2024) with FA26b->AIRST->FA26b (2.8)  Elo lost: 81. New Elo: 3807
+[2025-02-19T23:03:28.505Z] Kill Sakeredd (2107) with FA26b->AIM7->F45A (10.7)  Elo gained: 17. New Elo: 3824
+[2025-02-19T23:05:54.182Z] Kill sniffy69 (1877) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 22. New Elo: 3846
+[2025-02-19T23:09:42.532Z] Kill doggiebag (2001) with FA26b->AIM7->FA26b (6.4)  Elo gained: 6. New Elo: 3852
+[2025-02-19T23:11:02.644Z] Kill Jane (2907) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 130. New Elo: 3982
+[2025-02-19T23:19:15.849Z] Death to Jane (3089) with FA26b->AIM120->FA26b (1.0)  Elo lost: 19. New Elo: 3963
+[2025-02-19T23:19:20.474Z] Kill Jane (3035) with FA26b->CFIT->FA26b (9.7) Distance: 0.9nm Elo gained: 55. New Elo: 4018
+[2025-02-19T23:21:44.032Z] Logout
+[2025-02-19T23:22:27.420Z] Login
+[2025-02-19T23:31:39.417Z] Death to theGh0st (2399) with EF24G->AIM120->FA26b (0.9)  Elo lost: 24. New Elo: 3994
+[2025-02-19T23:35:07.573Z] Kill Mahripaharipylayevna (2007) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 22. New Elo: 4016
+[2025-02-19T23:38:43.696Z] Death to Prius (3772) with FA26b->Gun->FA26b (9.7)  Elo lost: 134. New Elo: 3881
+[2025-02-19T23:44:39.684Z] Kill spiffy (1995) with FA26b->AIM9->FA26b (2.8)  Elo gained: 3. New Elo: 3884
+[2025-02-19T23:45:39.502Z] Kill fru (1849) with FA26b->AIM7->EF24G (10.7)  Elo gained: 11. New Elo: 3895
+[2025-02-19T23:45:41.738Z] Death to Prius (3856) with FA26b->AIM9E->FA26b (22.0)  Elo lost: 150. New Elo: 3745
+[2025-02-19T23:49:04.887Z] Kill mcvin (1992) with FA26b->AIM7->FA26b (6.4)  Elo gained: 8. New Elo: 3753
+[2025-02-19T23:51:29.543Z] Kill Mahripaharipylayevna (1991) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 29. New Elo: 3782
+[2025-02-19T23:53:57.828Z] Kill spiffy (1984) with FA26b->Gun->T55 (9.7)  Elo gained: 10. New Elo: 3793
+[2025-02-19T23:54:17.650Z] Kill evanshut (2237) with FA26b->Gun->F45A (20.4)  Elo gained: 50. New Elo: 3843
+[2025-02-19T23:54:23.810Z] Death to evanshut (2387) with F45A->Gun->FA26b (12.8)  Elo lost: 150. New Elo: 3693
+[2025-02-19T23:59:35.814Z] Kill johan (1893) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 25. New Elo: 3718
+[2025-02-20T00:00:14.000Z] Death to sniffy69 (1917) with FA26b->AIM120->FA26b (1.0)  Elo lost: 28. New Elo: 3689
+[2025-02-20T00:06:14.196Z] Death to Prius (3945) with FA26b->Gun->FA26b (9.7)  Elo lost: 89. New Elo: 3600
+[2025-02-20T00:12:32.153Z] Death to Prius (4003) with FA26b->Gun->FA26b (9.7)  Elo lost: 82. New Elo: 3518
+[2025-02-20T00:21:44.678Z] Logout
+[2025-02-20T00:22:12.943Z] Login
+[2025-02-20T00:32:15.691Z] Kill AlphaOmega (1947) with FA26b->AIM9E->T55 (22.0)  Elo gained: 53. New Elo: 3571
+[2025-02-20T00:32:44.587Z] Kill viper (1901) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 41. New Elo: 3612
+[2025-02-20T00:33:39.283Z] Kill hhjjk (1983) with FA26b->CFIT->EF24G (1.6) Distance: 19.4nm Elo gained: 3. New Elo: 3615
+[2025-02-20T00:35:43.028Z] Kill garageagle (1902) with FA26b->Gun->FA26b (9.7)  Elo gained: 15. New Elo: 3630
+[2025-02-20T00:45:31.010Z] Kill anal oblitorator (2437) with FA26b->CFIT->FA26b (6.4) Distance: 1.6nm Elo gained: 27. New Elo: 3656
+[2025-02-20T00:48:22.470Z] Kill Eslam (2226) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 70. New Elo: 3727
+[2025-02-20T00:49:10.101Z] Kill brey (1937) with FA26b->AIM9E->EF24G (46.3)  Elo gained: 63. New Elo: 3790
+[2025-02-20T00:50:49.553Z] Kill anal oblitorator (2437) with FA26b->AIM7->FA26b (6.4)  Elo gained: 22. New Elo: 3812
+[2025-02-20T01:02:52.079Z] Kill penguin (2044) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 29. New Elo: 3840
+[2025-02-20T01:07:55.546Z] Kill Munce (1929) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 22. New Elo: 3862
+[2025-02-20T01:08:28.271Z] Kill hondo (1756) with FA26b->CFIT->T55 (6.4) Distance: 1.8nm Elo gained: 6. New Elo: 3869
+[2025-02-20T01:09:14.376Z] Kill Eslam (2212) with FA26b->AIM9->FA26b (2.8)  Elo gained: 5. New Elo: 3873
+[2025-02-20T01:10:08.357Z] Kill Jane (3115) with FA26b->CFIT->FA26b (9.7) Distance: 0.1nm Elo gained: 64. New Elo: 3937
+[2025-02-20T01:10:09.052Z] Death to Jane (3265) with FA26b->Gun->FA26b (9.7)  Elo lost: 150. New Elo: 3787
+[2025-02-20T01:15:29.767Z] Death to Jane (3416) with FA26b->Gun->FA26b (9.7)  Elo lost: 148. New Elo: 3639
+[2025-02-20T01:20:11.900Z] Death to rosey (4437) with EF24G->AIRST->FA26b (3.1)  Elo lost: 19. New Elo: 3620
+[2025-02-20T01:21:45.125Z] Logout
+[2025-02-20T01:22:12.897Z] Login
+[2025-02-20T01:27:18.037Z] Death to Jane (3432) with F45A->AIM120->F45A (1.3)  Elo lost: 15. New Elo: 3605
+[2025-02-20T01:29:39.988Z] Kill Jane (3287) with F45A->CFIT->F45A (30.9) Distance: 0.8nm Elo gained: 150. New Elo: 3755
+[2025-02-20T01:31:33.697Z] Kill Shouko (2436) with F45A->CFIT->FA26b (12.8) Distance: 0.3nm Elo gained: 47. New Elo: 3801
+[2025-02-20T01:34:46.311Z] Death to Jane (3349) with F45A->AIM9X->F45A (3.9)  Elo lost: 59. New Elo: 3742
+[2025-02-20T01:37:47.446Z] Kill Jane (3199) with F45A->Gun->F45A (30.9)  Elo gained: 150. New Elo: 3892
+[2025-02-20T01:44:04.726Z] Death to Jane (3409) with F45A->AIM9X->F45A (3.9)  Elo lost: 60. New Elo: 3832
+[2025-02-20T01:48:44.514Z] Death to Jane (3472) with F45A->AIM9X->F45A (3.9)  Elo lost: 55. New Elo: 3777
+[2025-02-20T01:51:18.309Z] Kill Jane (3610) with F45A->AIM120->F45A (1.3)  Elo gained: 12. New Elo: 3789
+[2025-02-20T01:54:45.732Z] Death to Jane (3625) with F45A->AIM120->F45A (1.3)  Elo lost: 15. New Elo: 3774
+[2025-02-20T01:58:38.076Z] Death to Jane (3780) with F45A->Gun->F45A (30.9)  Elo lost: 150. New Elo: 3624
+[2025-02-20T02:00:47.963Z] Kill Jane (3765) with F45A->AIM120->F45A (1.3)  Elo gained: 15. New Elo: 3639
+[2025-02-20T02:07:15.652Z] Death to Jane (3771) with F45A->AIM9X->F45A (3.9)  Elo lost: 37. New Elo: 3601
+[2025-02-20T02:10:32.117Z] Kill Jane (3621) with F45A->Gun->F45A (30.9)  Elo gained: 150. New Elo: 3751
+[2025-02-20T02:14:21.130Z] Kill Jane (3481) with F45A->Gun->F45A (30.9)  Elo gained: 150. New Elo: 3901
+[2025-02-20T02:17:32.138Z] Death to donnie (2138) with T55->AIM120->F45A (1.6)  Elo lost: 46. New Elo: 3856
+[2025-02-20T02:20:48.295Z] Kill haasisig (2185) with F45A->CFIT->EF24G (30.9) Distance: 0.3nm Elo gained: 60. New Elo: 3916
+[2025-02-20T02:21:45.546Z] Logout
+[2025-02-20T02:22:14.909Z] Login
+[2025-02-20T02:29:18.924Z] Kill Jane (3332) with F45A->Gun->F45A (30.9)  Elo gained: 150. New Elo: 4066
+[2025-02-20T02:35:27.275Z] Kill Jane (3182) with F45A->CFIT->F45A (30.9) Distance: 0.3nm Elo gained: 150. New Elo: 4216
+[2025-02-20T02:38:31.800Z] Kill Jane (3033) with F45A->Gun->F45A (30.9)  Elo gained: 149. New Elo: 4365
+[2025-02-20T02:41:29.683Z] Kill Jane (2930) with F45A->Gun->F45A (30.9)  Elo gained: 103. New Elo: 4468
+[2025-02-20T02:41:51.782Z] Death to Fable (2261) with EF24G->AIM120->F45A (1.3)  Elo lost: 42. New Elo: 4426
+[2025-02-20T02:47:01.715Z] Kill Jane (2886) with F45A->CFIT->F45A (30.9) Distance: 0.4nm Elo gained: 84. New Elo: 4510
+[2025-02-20T02:51:46.087Z] Death to Fable (2435) with EF24G->AIM120->F45A (1.3)  Elo lost: 40. New Elo: 4470
+[2025-02-20T02:55:08.002Z] Kill Jane (2878) with F45A->AIM9X->F45A (3.9)  Elo gained: 8. New Elo: 4478
+[2025-02-20T03:00:00.671Z] Kill Jane (2816) with F45A->Gun->F45A (30.9)  Elo gained: 62. New Elo: 4540
+[2025-02-20T03:03:57.286Z] Death to Jane (2966) with F45A->Gun->F45A (30.9)  Elo lost: 150. New Elo: 4390
+[2025-02-20T03:03:57.368Z] Kill Jane (2877) with F45A->Gun->F45A (30.9)  Elo gained: 89. New Elo: 4479
+[2025-02-20T03:10:01.906Z] Kill Jane (2816) with F45A->Gun->F45A (30.9)  Elo gained: 61. New Elo: 4540
+[2025-02-20T03:14:28.732Z] Death to Jane (2966) with F45A->Gun->F45A (30.9)  Elo lost: 150. New Elo: 4390
+[2025-02-20T03:14:56.241Z] Kill Jane (2877) with F45A->Gun->F45A (30.9)  Elo gained: 89. New Elo: 4479
+[2025-02-20T03:19:49.319Z] Death to Jane (3027) with F45A->Gun->F45A (30.9)  Elo lost: 150. New Elo: 4329
+[2025-02-20T03:21:46.672Z] Logout
+[2025-02-20T03:22:17.763Z] Login
+[2025-02-20T03:22:21.948Z] Logout
+[2025-03-30T01:03:50.307Z] Login
+[2025-03-30T01:07:47.928Z] Kill Tobiichi Eigetsu (3672) with FA26b->AIM7->FA26b (6.4)  Elo gained: 45. New Elo: 4374
+[2025-03-30T01:09:11.941Z] Kill stopAlting (3293) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 113. New Elo: 4487
+[2025-03-30T01:11:28.632Z] Death to Boss Baby (3218) with FA26b->AIRST->FA26b (2.8)  Elo lost: 64. New Elo: 4423
+[2025-03-30T01:15:39.910Z] Death to Boss Baby (3390) with FA26b->Gun->FA26b (9.7)  Elo lost: 150. New Elo: 4273
+[2025-03-30T01:18:18.150Z] Logout
+[2025-03-30T01:19:09.888Z] Login
+[2025-03-30T01:25:11.670Z] Kill Tobiichi Eigetsu (3540) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 150. New Elo: 4423
+[2025-03-30T01:29:54.429Z] Death to stopAlting (3459) with FA26b->Gun->FA26b (9.7)  Elo lost: 150. New Elo: 4273
+[2025-03-30T01:34:12.580Z] Death to Boss Baby (3606) with FA26b->Gun->FA26b (9.7)  Elo lost: 150. New Elo: 4123
+[2025-03-30T01:36:42.958Z] Kill Boss Baby (3465) with FA26b->AIM9E->FA26b (22.0)  Elo gained: 150. New Elo: 4273
+[2025-03-30T01:38:14.239Z] Kill unstoppable500 (1947) with FA26b->AIM9E->T55 (22.0)  Elo gained: 22. New Elo: 4295
+[2025-03-30T01:38:14.940Z] Death to unstoppable500 (2097) with T55->CFIT->FA26b (9.7) Distance: 0.1nm Elo lost: 150. New Elo: 4145
+[2025-03-30T01:43:21.310Z] Kill stopAlting (3476) with FA26b->AIM9->FA26b (2.8)  Elo gained: 19. New Elo: 4163
+[2025-03-30T01:45:15.802Z] Death to Boss Baby (3447) with FA26b->AIRST->FA26b (2.8)  Elo lost: 49. New Elo: 4114
+[2025-03-30T01:49:21.055Z] Death to stopAlting (3677) with FA26b->Gun->FA26b (9.7)  Elo lost: 150. New Elo: 3964
+[2025-03-30T01:52:47.835Z] Death to Boss Baby (3337) with FA26b->AIM120->FA26b (1.0)  Elo lost: 16. New Elo: 3948
+[2025-03-30T01:56:45.993Z] Death to AR15lilKING (2276) with F45A->AIM120->FA26b (0.9)  Elo lost: 24. New Elo: 3924
+[2025-03-30T02:00:46.388Z] Death to Skillwithwings (2002) with FA26b->AIM120->FA26b (1.0)  Elo lost: 30. New Elo: 3894
+[2025-03-30T02:06:56.743Z] Kill Bubba0141 (2779) with FA26b->AIM7->EF24G (10.7)  Elo gained: 50. New Elo: 3944
+[2025-03-30T02:07:54.943Z] Death to Uppsala Blue (2065) with EF24G->AIM120->FA26b (0.9)  Elo lost: 26. New Elo: 3918
+[2025-03-30T02:14:44.837Z] Death to Prius (4216) with FA26b->AIM7->FA26b (6.4)  Elo lost: 57. New Elo: 3861
+[2025-03-30T02:18:19.057Z] Logout
+[2025-03-30T02:19:12.749Z] Login
+[2025-03-30T02:19:52.018Z] Logout
+[2025-04-12T20:01:30.367Z] Login
+[2025-04-12T20:05:07.728Z] Death to trueloser777 (2023) with EF24G->AIRST->FA26b (3.1)  Elo lost: 90. New Elo: 3771
+[2025-04-12T20:08:13.487Z] Kill Ronnkki (1781) with FA26b->AIM9E->F45A (46.3)  Elo gained: 46. New Elo: 3818
+[2025-04-12T20:12:27.030Z] Death to rosey (3761) with EF24G->AIRST->FA26b (3.1)  Elo lost: 33. New Elo: 3784
+[2025-04-12T20:15:29.597Z] Kill Chieh (2581) with FA26b->AIM7->FA26b (6.4)  Elo gained: 27. New Elo: 3811
+[2025-04-12T20:15:31.242Z] Death to Chieh (2603) with FA26b->AIM120->FA26b (1.0)  Elo lost: 22. New Elo: 3789
+[2025-04-12T20:26:04.447Z] Kill invisibilitylock (1858) with FA26b->Gun->FA26b (9.7)  Elo gained: 10. New Elo: 3798
+[2025-04-12T20:26:28.536Z] Death to Frendum (4012) with FA26b->AIM7->FA26b (6.4)  Elo lost: 59. New Elo: 3739
+[2025-04-12T20:30:43.526Z] Death to rosey (3809) with EF24G->AIM7->FA26b (5.5)  Elo lost: 54. New Elo: 3685
+[2025-04-12T20:30:54.617Z] Logout
+
+
+Achievement log:
